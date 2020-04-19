@@ -1,6 +1,6 @@
-<dl><dt>Absolutely closed</dt>
-<dd>See <i>H-closed</i></dd></dl>
-<dl><dt>Accessible</dt>
+"<dl><dt>Absolutely closed</dt>"¬"
+<dd>See <i>H-closed</i></dd></dl>"
+"<dl><dt>Accessible</dt>"¬"
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/T1_space"" title=""T1 space""><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle T_{1}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -15,20 +15,20 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle T_{1}}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/2f304724948a3ef606c4a92459e22b87a954d993"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:2.412ex; height:2.509ex;"" alt=""T_{1}""/></span></a></b>.</dd></dl>
-<dl><dt>Accumulation point</dt>
-<dd>See <a href=""https://en.wikipedia.org/wiki/Limit_point"" title=""Limit point"">limit point</a>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Alexandrov_topology"" title=""Alexandrov topology"">Alexandrov topology</a></dt>
-<dd>The topology of a space <i>X</i> is an <a href=""https://en.wikipedia.org/wiki/Alexandrov_topology"" title=""Alexandrov topology"">Alexandrov topology</a> (or is <b>finitely generated</b>) if arbitrary intersections of open sets in <i>X</i> are open, or equivalently, if arbitrary unions of closed sets are closed, or, again equivalently, if the open sets are the <a href=""https://en.wikipedia.org/wiki/Upper_set"" title=""Upper set"">upper sets</a> of a <a href=""https://en.wikipedia.org/wiki/Poset"" class=""mw-redirect"" title=""Poset"">poset</a>.<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup></dd></dl>
-<dl><dt>Almost discrete</dt>
-<dd>A space is almost discrete if every open set is closed (hence clopen). The almost discrete spaces are precisely the finitely generated zero-dimensional spaces.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Approach_space"" title=""Approach space"">Approach space</a></dt>
-<dd>An <a href=""https://en.wikipedia.org/wiki/Approach_space"" title=""Approach space"">approach space</a> is a generalization of metric space based on point-to-set distances, instead of point-to-point.</dd></dl>
-<dl><dt>Baire space</dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/2f304724948a3ef606c4a92459e22b87a954d993"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:2.412ex; height:2.509ex;"" alt=""T_{1}""/></span></a></b>.</dd></dl>"
+"<dl><dt>Accumulation point</dt>"¬"
+<dd>See <a href=""https://en.wikipedia.org/wiki/Limit_point"" title=""Limit point"">limit point</a>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Alexandrov_topology"" title=""Alexandrov topology"">Alexandrov topology</a></dt>"¬"
+<dd>The topology of a space <i>X</i> is an <a href=""https://en.wikipedia.org/wiki/Alexandrov_topology"" title=""Alexandrov topology"">Alexandrov topology</a> (or is <b>finitely generated</b>) if arbitrary intersections of open sets in <i>X</i> are open, or equivalently, if arbitrary unions of closed sets are closed, or, again equivalently, if the open sets are the <a href=""https://en.wikipedia.org/wiki/Upper_set"" title=""Upper set"">upper sets</a> of a <a href=""https://en.wikipedia.org/wiki/Poset"" class=""mw-redirect"" title=""Poset"">poset</a>.<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup></dd></dl>"
+"<dl><dt>Almost discrete</dt>"¬"
+<dd>A space is almost discrete if every open set is closed (hence clopen). The almost discrete spaces are precisely the finitely generated zero-dimensional spaces.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Approach_space"" title=""Approach space"">Approach space</a></dt>"¬"
+<dd>An <a href=""https://en.wikipedia.org/wiki/Approach_space"" title=""Approach space"">approach space</a> is a generalization of metric space based on point-to-set distances, instead of point-to-point.</dd></dl>"
+"<dl><dt>Baire space</dt>"¬"
 <dd>This has two distinct common meanings:
 <ol><li>A space is a <b>Baire space</b> if the intersection of any <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> collection of dense open sets is dense; see <a href=""https://en.wikipedia.org/wiki/Baire_space"" title=""Baire space"">Baire space</a>.</li>
-<li><b>Baire space</b> is the set of all functions from the natural numbers to the natural numbers, with the topology of pointwise convergence; see <a href=""https://en.wikipedia.org/wiki/Baire_space_(set_theory)"" title=""Baire space (set theory)"">Baire space (set theory)</a>.</li></ol></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Base_(topology)"" title=""Base (topology)"">Base</a></dt>
+<li><b>Baire space</b> is the set of all functions from the natural numbers to the natural numbers, with the topology of pointwise convergence; see <a href=""https://en.wikipedia.org/wiki/Baire_space_(set_theory)"" title=""Baire space (set theory)"">Baire space (set theory)</a>.</li></ol></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Base_(topology)"" title=""Base (topology)"">Base</a></dt>"¬"
 <dd>A collection <i>B</i> of open sets is a <a href=""https://en.wikipedia.org/wiki/Base_(topology)"" title=""Base (topology)"">base</a> (or <b>basis</b>) for a topology <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -92,10 +92,10 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle B}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/47136aad860d145f75f3eed3022df827cee94d7a"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"" alt=""B""/></span>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Basis_(topology)"" class=""mw-redirect"" title=""Basis (topology)"">Basis</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Base_(topology)"" title=""Base (topology)"">Base</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Borel_algebra"" class=""mw-redirect"" title=""Borel algebra"">Borel algebra</a></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/47136aad860d145f75f3eed3022df827cee94d7a"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.764ex; height:2.176ex;"" alt=""B""/></span>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Basis_(topology)"" class=""mw-redirect"" title=""Basis (topology)"">Basis</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Base_(topology)"" title=""Base (topology)"">Base</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Borel_algebra"" class=""mw-redirect"" title=""Borel algebra"">Borel algebra</a></dt>"¬"
 <dd>The <a href=""https://en.wikipedia.org/wiki/Borel_algebra"" class=""mw-redirect"" title=""Borel algebra"">Borel algebra</a> on a topological space <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle (X,\tau )}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -145,10 +145,10 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle \tau }</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.202ex; height:1.676ex;"" alt=""\tau ""/></span>.</dd></dl>
-<dl><dt>Borel set</dt>
-<dd>A Borel set is an element of a Borel algebra.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Boundary_(topology)"" title=""Boundary (topology)"">Boundary</a></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.202ex; height:1.676ex;"" alt=""\tau ""/></span>.</dd></dl>"
+"<dl><dt>Borel set</dt>"¬"
+<dd>A Borel set is an element of a Borel algebra.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Boundary_(topology)"" title=""Boundary (topology)"">Boundary</a></dt>"¬"
 <dd>The <a href=""https://en.wikipedia.org/wiki/Boundary_(topology)"" title=""Boundary (topology)"">boundary</a> (or <b>frontier</b>) of a set is the set's closure minus its interior.  Equivalently, the boundary of a set is the intersection of its closure with the closure of its complement. Boundary of a set <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle A}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -187,112 +187,112 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle A}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.743ex; height:2.176ex;"" alt=""A""/></span>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Bounded_set"" title=""Bounded set"">Bounded</a></dt>
-<dd>A set in a metric space is <a href=""https://en.wikipedia.org/wiki/Bounded_set"" title=""Bounded set"">bounded</a> if it has <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> diameter. Equivalently, a set is bounded if it is contained in some open ball of finite radius. A <a href=""https://en.wikipedia.org/wiki/Function_(mathematics)"" title=""Function (mathematics)"">function</a> taking values in a metric space is <a href=""https://en.wikipedia.org/wiki/Bounded_function"" title=""Bounded function"">bounded</a> if its <a href=""https://en.wikipedia.org/wiki/Image_(functions)"" class=""mw-redirect"" title=""Image (functions)"">image</a> is a bounded set.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Category of topological spaces</a></dt>
-<dd>The <a href=""https://en.wikipedia.org/wiki/Category_theory"" title=""Category theory"">category</a> <b><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Top</a></b> has <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological spaces</a> as <a href=""https://en.wikipedia.org/wiki/Object_(category_theory)"" class=""mw-redirect"" title=""Object (category theory)"">objects</a> and <a href=""https://en.wikipedia.org/wiki/Continuous_map"" class=""mw-redirect"" title=""Continuous map"">continuous maps</a> as <a href=""https://en.wikipedia.org/wiki/Morphism"" title=""Morphism"">morphisms</a>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Cauchy_sequence"" title=""Cauchy sequence"">Cauchy sequence</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Sequence"" title=""Sequence"">sequence</a> {<i>x</i><sub><i>n</i></sub>} in a metric space (<i>M</i>, <i>d</i>) is a <a href=""https://en.wikipedia.org/wiki/Cauchy_sequence"" title=""Cauchy sequence"">Cauchy sequence</a> if, for every <a href=""https://en.wikipedia.org/wiki/Positive_number"" class=""mw-redirect"" title=""Positive number"">positive</a> <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real number</a> <i>r</i>, there is an <a href=""https://en.wikipedia.org/wiki/Integer"" title=""Integer"">integer</a> <i>N</i> such that for all integers <i>m</i>, <i>n</i> &gt; <i>N</i>, we have <i>d</i>(<i>x</i><sub><i>m</i></sub>, <i>x</i><sub><i>n</i></sub>) &lt; <i>r</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Clopen_set"" title=""Clopen set"">Clopen set</a></dt>
-<dd>A set is <a href=""https://en.wikipedia.org/wiki/Clopen_set"" title=""Clopen set"">clopen</a> if it is both open and closed.</dd></dl>
-<dl><dt>Closed ball</dt>
-<dd>If (<i>M</i>, <i>d</i>) is a <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric space</a>, a closed ball is a set of the form <i>D</i>(<i>x</i>; <i>r</i>)&#160;:= {<i>y</i> in <i>M</i>&#160;: <i>d</i>(<i>x</i>, <i>y</i>) ≤ <i>r</i>}, where <i>x</i> is in <i>M</i> and <i>r</i> is a <a href=""https://en.wikipedia.org/wiki/Positive_number"" class=""mw-redirect"" title=""Positive number"">positive</a> <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real number</a>, the <b>radius</b> of the ball. A closed ball of radius <i>r</i> is a <b>closed <i>r</i>-ball</b>. Every closed ball is a closed set in the topology induced on <i>M</i> by <i>d</i>. Note that the closed ball <i>D</i>(<i>x</i>; <i>r</i>) might not be equal to the <a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">closure</a> of the open ball <i>B</i>(<i>x</i>; <i>r</i>).</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Closed_set"" title=""Closed set"">Closed set</a></dt>
-<dd>A set is <a href=""https://en.wikipedia.org/wiki/Closed_set"" title=""Closed set"">closed</a> if its complement is a member of the topology.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Closed_function"" class=""mw-redirect"" title=""Closed function"">Closed function</a></dt>
-<dd>A function from one space to another is closed if the <a href=""https://en.wikipedia.org/wiki/Image_(mathematics)"" title=""Image (mathematics)"">image</a> of every closed set is closed.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">Closure</a></dt>
-<dd>The <a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">closure</a> of a set is the smallest closed set containing the original set. It is equal to the intersection of all closed sets which contain it. An element of the closure of a set <i>S</i> is a <b>point of closure</b> of <i>S</i>.</dd></dl>
-<dl><dt>Closure operator</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Kuratowski_closure_axioms"" title=""Kuratowski closure axioms"">Kuratowski closure axioms</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">Coarser topology</a></dt>
-<dd>If <i>X</i> is a set, and if <i>T</i><sub>1</sub> and <i>T</i><sub>2</sub> are topologies on <i>X</i>, then <i>T</i><sub>1</sub> is <a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">coarser</a> (or <b>smaller</b>, <b>weaker</b>) than <i>T</i><sub>2</sub> if <i>T</i><sub>1</sub> is contained in <i>T</i><sub>2</sub>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>stronger</b>.</dd></dl>
-<dl><dt>Comeagre</dt>
-<dd>A subset <i>A</i> of a space <i>X</i> is <b>comeagre</b> (<b>comeager</b>) if its <a href=""https://en.wikipedia.org/wiki/Complement_(set_theory)"" title=""Complement (set theory)"">complement</a> <i>X</i>\<i>A</i> is <a href=""https://en.wikipedia.org/wiki/Meagre_set"" title=""Meagre set"">meagre</a>. Also called <b>residual</b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Compact_space"" title=""Compact space"">Compact</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Compact_space"" title=""Compact space"">compact</a> if every open cover has a <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> subcover. Every compact space is Lindelöf and paracompact. Therefore, every compact <a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff space</a> is normal. See also <b>quasicompact</b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Compact-open_topology"" title=""Compact-open topology"">Compact-open topology</a></dt>
-<dd>The <a href=""https://en.wikipedia.org/wiki/Compact-open_topology"" title=""Compact-open topology"">compact-open topology</a> on the set <i>C</i>(<i>X</i>, <i>Y</i>) of all continuous maps between two spaces <i>X</i> and <i>Y</i> is defined as follows: given a compact subset <i>K</i> of <i>X</i> and an open subset <i>U</i> of <i>Y</i>, let <i>V</i>(<i>K</i>, <i>U</i>) denote the set of all maps <i>f</i> in <i>C</i>(<i>X</i>, <i>Y</i>) such that <i>f</i>(<i>K</i>) is contained in <i>U</i>. Then the collection of all such <i>V</i>(<i>K</i>, <i>U</i>) is a subbase for the compact-open topology.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Complete_space"" class=""mw-redirect"" title=""Complete space"">Complete</a></dt>
-<dd>A metric space is <a href=""https://en.wikipedia.org/wiki/Complete_space"" class=""mw-redirect"" title=""Complete space"">complete</a> if every Cauchy sequence converges.</dd></dl>
-<dl><dt>Completely metrizable/completely metrisable</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Complete_space"" class=""mw-redirect"" title=""Complete space"">complete space</a></b>.</dd></dl>
-<dl><dt>Completely normal</dt>
-<dd>A space is completely normal if any two separated sets have <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> neighbourhoods.</dd></dl>
-<dl><dt>Completely normal Hausdorff</dt>
-<dd>A completely normal Hausdorff space (or <a href=""https://en.wikipedia.org/wiki/T5_space"" class=""mw-redirect"" title=""T5 space""><b>T<sub>5</sub></b> space</a>) is a completely normal T<sub>1</sub> space. (A completely normal space is Hausdorff <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is T<sub>1</sub>, so the terminology is <a href=""https://en.wikipedia.org/wiki/Consistent"" class=""mw-redirect"" title=""Consistent"">consistent</a>.) Every completely normal Hausdorff space is normal Hausdorff.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Completely_regular_space"" class=""mw-redirect"" title=""Completely regular space"">Completely regular</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Completely_regular_space"" class=""mw-redirect"" title=""Completely regular space"">completely regular</a> if, whenever <i>C</i> is a closed set and <i>x</i> is a point not in <i>C</i>, then <i>C</i> and {<i>x</i>} are functionally separated.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Completely_T3_space"" class=""mw-redirect"" title=""Completely T3 space"">Completely T<sub>3</sub></a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">Tychonoff</a></b>.</dd></dl>
-<dl><dt>Component</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Connected_space"" title=""Connected space"">Connected component</a></b>/<b>Path-connected component</b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Connected_(topology)"" class=""mw-redirect"" title=""Connected (topology)"">Connected</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Connected_(topology)"" class=""mw-redirect"" title=""Connected (topology)"">connected</a> if it is not the union of a pair of <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> nonempty open sets. Equivalently, a space is connected if the only clopen sets are the whole space and the empty set.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Connected_space"" title=""Connected space"">Connected component</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Connected_space"" title=""Connected space"">connected component</a> of a space is a <a href=""https://en.wikipedia.org/wiki/Maximal_set"" title=""Maximal set"">maximal</a> nonempty connected subspace. Each connected component is closed, and the set of connected components of a space is a <a href=""https://en.wikipedia.org/wiki/Partition_of_a_set"" title=""Partition of a set"">partition</a> of that space.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Continuity_(topology)"" class=""mw-redirect"" title=""Continuity (topology)"">Continuous</a></dt>
-<dd>A function from one space to another is <a href=""https://en.wikipedia.org/wiki/Continuity_(topology)"" class=""mw-redirect"" title=""Continuity (topology)"">continuous</a> if the <a href=""https://en.wikipedia.org/wiki/Preimage"" class=""mw-redirect"" title=""Preimage"">preimage</a> of every open set is open.</dd></dl>
-<dl><dt>Continuum</dt>
-<dd>A space is called a continuum if it a compact, connected Hausdorff space.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Contractible_space"" title=""Contractible space"">Contractible</a></dt>
-<dd>A space <i>X</i> is contractible if the <a href=""https://en.wikipedia.org/wiki/Identity_function"" title=""Identity function"">identity map</a> on <i>X</i> is homotopic to a constant map. Every contractible space is simply connected.</dd></dl>
-<dl><dt>Coproduct topology</dt>
-<dd>If {<i>X</i><sub><i>i</i></sub>} is a collection of spaces and <i>X</i> is the (set-theoretic) <a href=""https://en.wikipedia.org/wiki/Disjoint_union"" title=""Disjoint union"">disjoint union</a> of {<i>X</i><sub><i>i</i></sub>}, then the coproduct topology (or <b>disjoint union topology</b>, <b>topological sum</b> of the <i>X</i><sub><i>i</i></sub>) on <i>X</i> is the finest topology for which all the injection maps are continuous.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Cosmic_space"" title=""Cosmic space"">Cosmic space</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Continuous_function"" title=""Continuous function"">continuous</a> <a href=""https://en.wikipedia.org/wiki/Image_(mathematics)"" title=""Image (mathematics)"">image</a> of some <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable</a> <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric space</a>.<sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Countable_chain_condition"" title=""Countable chain condition"">Countable chain condition</a></dt>
-<dd>A space <i>X</i> satisfies the countable chain condition if every family of non-empty, pairswise disjoint open sets is countable.</dd></dl>
-<dl><dt>Countably compact</dt>
-<dd>A space is countably compact if every <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> open cover has a <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> subcover. Every countably compact space is pseudocompact and weakly countably compact.</dd></dl>
-<dl><dt>Countably locally finite</dt>
-<dd>A collection of subsets of a space <i>X</i> is <b>countably locally finite</b> (or <b>σ-locally finite</b>) if it is the union of a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> collection of locally finite collections of subsets of <i>X</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Cover_(topology)"" title=""Cover (topology)"">Cover</a></dt>
-<dd>A collection of subsets of a space is a cover (or <b>covering</b>) of that space if the union of the collection is the whole space.</dd></dl>
-<dl><dt>Covering</dt>
-<dd>See <b>Cover</b>.</dd></dl>
-<dl><dt>Cut point</dt>
-<dd>If <i>X</i> is a connected space with more than one point, then a point <i>x</i> of <i>X</i> is a cut point if the subspace <i>X</i> − {<i>x</i>} is disconnected.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Dense_set"" title=""Dense set"">Dense set</a></dt>
-<dd>A set is dense if it has nonempty intersection with every nonempty open set. Equivalently, a set is dense if its closure is the whole space.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Dense-in-itself"" title=""Dense-in-itself"">Dense-in-itself</a> set</dt>
-<dd>A set is dense-in-itself if it has no <a href=""https://en.wikipedia.org/wiki/Isolated_point"" title=""Isolated point"">isolated point</a>.</dd></dl>
-<dl><dt>Density</dt>
-<dd>the minimal cardinality of a dense subset of a topological space.  A set of density ℵ<sub>0</sub> is a <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable space</a>.<sup id=""cite_ref-3"" class=""reference""><a href=""#cite_note-3"">&#91;3&#93;</a></sup></dd></dl>
-<dl><dt>Derived set</dt>
-<dd>If <i>X</i> is a space and <i>S</i> is a subset of <i>X</i>, the derived set of <i>S</i> in <i>X</i> is the set of limit points of <i>S</i> in <i>X</i>.</dd></dl>
-<dl><dt>Developable space</dt>
-<dd>A topological space with a <a href=""https://en.wikipedia.org/wiki/Development_(topology)"" title=""Development (topology)"">development</a>.<sup id=""cite_ref-ss163_4-0"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Development_(topology)"" title=""Development (topology)"">Development</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Countable_set"" title=""Countable set"">countable</a> collection of <a href=""https://en.wikipedia.org/wiki/Open_cover"" class=""mw-redirect"" title=""Open cover"">open covers</a> of a topological space, such that for any closed set <i>C</i> and any point <i>p</i> in its complement there exists a cover in the collection such that every neighbourhood of <i>p</i> in the cover is <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> from <i>C</i>.<sup id=""cite_ref-ss163_4-1"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>
-<dl><dt>Diameter</dt>
-<dd>If (<i>M</i>, <i>d</i>) is a metric space and <i>S</i> is a subset of <i>M</i>, the diameter of <i>S</i> is the <a href=""https://en.wikipedia.org/wiki/Supremum"" class=""mw-redirect"" title=""Supremum"">supremum</a> of the distances <i>d</i>(<i>x</i>, <i>y</i>), where <i>x</i> and <i>y</i> range over <i>S</i>.</dd></dl>
-<dl><dt>Discrete metric</dt>
-<dd>The discrete metric on a set <i>X</i> is the function <i>d</i>&#160;: <i>X</i> × <i>X</i> &#160;→&#160; <b><a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">R</a></b> such that for all <i>x</i>, <i>y</i> in <i>X</i>, <i>d</i>(<i>x</i>, <i>x</i>) = 0 and <i>d</i>(<i>x</i>, <i>y</i>) = 1 if <i>x</i> ≠ <i>y</i>. The discrete metric induces the discrete topology on <i>X</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Discrete_space"" title=""Discrete space"">Discrete space</a></dt>
-<dd>A space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Discrete_space"" title=""Discrete space"">discrete</a> if every subset of <i>X</i> is open. We say that <i>X</i> carries the <b>discrete topology</b>.<sup id=""cite_ref-ss41_5-0"" class=""reference""><a href=""#cite_note-ss41-5"">&#91;5&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Discrete_topology"" class=""mw-redirect"" title=""Discrete topology"">Discrete topology</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Discrete_space"" title=""Discrete space"">discrete space</a></b>.</dd></dl>
-<dl><dt>Disjoint union topology</dt>
-<dd>See <b>Coproduct topology</b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Dispersion_point"" title=""Dispersion point"">Dispersion point</a></dt>
-<dd>If <i>X</i> is a connected space with more than one point, then a point <i>x</i> of <i>X</i> is a dispersion point if the subspace <i>X</i> − {<i>x</i>} is hereditarily disconnected (its only connected components are the one-point sets).</dd></dl>
-<dl><dt>Distance</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric space</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Dunce_hat_(topology)"" title=""Dunce hat (topology)"">Dunce hat (topology)</a></dt></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Entourage_(topology)"" class=""mw-redirect"" title=""Entourage (topology)"">Entourage</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></b>.</dd></dl>
-<dl><dt>Exterior</dt>
-<dd>The exterior of a set is the interior of its complement.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/F-sigma_set"" class=""mw-redirect"" title=""F-sigma set""><i>F</i><sub>σ</sub> set</a></dt>
-<dd>An <a href=""https://en.wikipedia.org/wiki/F-sigma_set"" class=""mw-redirect"" title=""F-sigma set""><i>F</i><sub>σ</sub> set</a> is a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> union of closed sets.<sup id=""cite_ref-ss162_6-0"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Filter_(mathematics)"" title=""Filter (mathematics)"">Filter</a></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.743ex; height:2.176ex;"" alt=""A""/></span>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Bounded_set"" title=""Bounded set"">Bounded</a></dt>"¬"
+<dd>A set in a metric space is <a href=""https://en.wikipedia.org/wiki/Bounded_set"" title=""Bounded set"">bounded</a> if it has <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> diameter. Equivalently, a set is bounded if it is contained in some open ball of finite radius. A <a href=""https://en.wikipedia.org/wiki/Function_(mathematics)"" title=""Function (mathematics)"">function</a> taking values in a metric space is <a href=""https://en.wikipedia.org/wiki/Bounded_function"" title=""Bounded function"">bounded</a> if its <a href=""https://en.wikipedia.org/wiki/Image_(functions)"" class=""mw-redirect"" title=""Image (functions)"">image</a> is a bounded set.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Category of topological spaces</a></dt>"¬"
+<dd>The <a href=""https://en.wikipedia.org/wiki/Category_theory"" title=""Category theory"">category</a> <b><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Top</a></b> has <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological spaces</a> as <a href=""https://en.wikipedia.org/wiki/Object_(category_theory)"" class=""mw-redirect"" title=""Object (category theory)"">objects</a> and <a href=""https://en.wikipedia.org/wiki/Continuous_map"" class=""mw-redirect"" title=""Continuous map"">continuous maps</a> as <a href=""https://en.wikipedia.org/wiki/Morphism"" title=""Morphism"">morphisms</a>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Cauchy_sequence"" title=""Cauchy sequence"">Cauchy sequence</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Sequence"" title=""Sequence"">sequence</a> {<i>x</i><sub><i>n</i></sub>} in a metric space (<i>M</i>, <i>d</i>) is a <a href=""https://en.wikipedia.org/wiki/Cauchy_sequence"" title=""Cauchy sequence"">Cauchy sequence</a> if, for every <a href=""https://en.wikipedia.org/wiki/Positive_number"" class=""mw-redirect"" title=""Positive number"">positive</a> <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real number</a> <i>r</i>, there is an <a href=""https://en.wikipedia.org/wiki/Integer"" title=""Integer"">integer</a> <i>N</i> such that for all integers <i>m</i>, <i>n</i> &gt; <i>N</i>, we have <i>d</i>(<i>x</i><sub><i>m</i></sub>, <i>x</i><sub><i>n</i></sub>) &lt; <i>r</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Clopen_set"" title=""Clopen set"">Clopen set</a></dt>"¬"
+<dd>A set is <a href=""https://en.wikipedia.org/wiki/Clopen_set"" title=""Clopen set"">clopen</a> if it is both open and closed.</dd></dl>"
+"<dl><dt>Closed ball</dt>"¬"
+<dd>If (<i>M</i>, <i>d</i>) is a <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric space</a>, a closed ball is a set of the form <i>D</i>(<i>x</i>; <i>r</i>)&#160;:= {<i>y</i> in <i>M</i>&#160;: <i>d</i>(<i>x</i>, <i>y</i>) ≤ <i>r</i>}, where <i>x</i> is in <i>M</i> and <i>r</i> is a <a href=""https://en.wikipedia.org/wiki/Positive_number"" class=""mw-redirect"" title=""Positive number"">positive</a> <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real number</a>, the <b>radius</b> of the ball. A closed ball of radius <i>r</i> is a <b>closed <i>r</i>-ball</b>. Every closed ball is a closed set in the topology induced on <i>M</i> by <i>d</i>. Note that the closed ball <i>D</i>(<i>x</i>; <i>r</i>) might not be equal to the <a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">closure</a> of the open ball <i>B</i>(<i>x</i>; <i>r</i>).</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Closed_set"" title=""Closed set"">Closed set</a></dt>"¬"
+<dd>A set is <a href=""https://en.wikipedia.org/wiki/Closed_set"" title=""Closed set"">closed</a> if its complement is a member of the topology.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Closed_function"" class=""mw-redirect"" title=""Closed function"">Closed function</a></dt>"¬"
+<dd>A function from one space to another is closed if the <a href=""https://en.wikipedia.org/wiki/Image_(mathematics)"" title=""Image (mathematics)"">image</a> of every closed set is closed.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">Closure</a></dt>"¬"
+<dd>The <a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">closure</a> of a set is the smallest closed set containing the original set. It is equal to the intersection of all closed sets which contain it. An element of the closure of a set <i>S</i> is a <b>point of closure</b> of <i>S</i>.</dd></dl>"
+"<dl><dt>Closure operator</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Kuratowski_closure_axioms"" title=""Kuratowski closure axioms"">Kuratowski closure axioms</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">Coarser topology</a></dt>"¬"
+<dd>If <i>X</i> is a set, and if <i>T</i><sub>1</sub> and <i>T</i><sub>2</sub> are topologies on <i>X</i>, then <i>T</i><sub>1</sub> is <a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">coarser</a> (or <b>smaller</b>, <b>weaker</b>) than <i>T</i><sub>2</sub> if <i>T</i><sub>1</sub> is contained in <i>T</i><sub>2</sub>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>stronger</b>.</dd></dl>"
+"<dl><dt>Comeagre</dt>"¬"
+<dd>A subset <i>A</i> of a space <i>X</i> is <b>comeagre</b> (<b>comeager</b>) if its <a href=""https://en.wikipedia.org/wiki/Complement_(set_theory)"" title=""Complement (set theory)"">complement</a> <i>X</i>\<i>A</i> is <a href=""https://en.wikipedia.org/wiki/Meagre_set"" title=""Meagre set"">meagre</a>. Also called <b>residual</b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Compact_space"" title=""Compact space"">Compact</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Compact_space"" title=""Compact space"">compact</a> if every open cover has a <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> subcover. Every compact space is Lindelöf and paracompact. Therefore, every compact <a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff space</a> is normal. See also <b>quasicompact</b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Compact-open_topology"" title=""Compact-open topology"">Compact-open topology</a></dt>"¬"
+<dd>The <a href=""https://en.wikipedia.org/wiki/Compact-open_topology"" title=""Compact-open topology"">compact-open topology</a> on the set <i>C</i>(<i>X</i>, <i>Y</i>) of all continuous maps between two spaces <i>X</i> and <i>Y</i> is defined as follows: given a compact subset <i>K</i> of <i>X</i> and an open subset <i>U</i> of <i>Y</i>, let <i>V</i>(<i>K</i>, <i>U</i>) denote the set of all maps <i>f</i> in <i>C</i>(<i>X</i>, <i>Y</i>) such that <i>f</i>(<i>K</i>) is contained in <i>U</i>. Then the collection of all such <i>V</i>(<i>K</i>, <i>U</i>) is a subbase for the compact-open topology.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Complete_space"" class=""mw-redirect"" title=""Complete space"">Complete</a></dt>"¬"
+<dd>A metric space is <a href=""https://en.wikipedia.org/wiki/Complete_space"" class=""mw-redirect"" title=""Complete space"">complete</a> if every Cauchy sequence converges.</dd></dl>"
+"<dl><dt>Completely metrizable/completely metrisable</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Complete_space"" class=""mw-redirect"" title=""Complete space"">complete space</a></b>.</dd></dl>"
+"<dl><dt>Completely normal</dt>"¬"
+<dd>A space is completely normal if any two separated sets have <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> neighbourhoods.</dd></dl>"
+"<dl><dt>Completely normal Hausdorff</dt>"¬"
+<dd>A completely normal Hausdorff space (or <a href=""https://en.wikipedia.org/wiki/T5_space"" class=""mw-redirect"" title=""T5 space""><b>T<sub>5</sub></b> space</a>) is a completely normal T<sub>1</sub> space. (A completely normal space is Hausdorff <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is T<sub>1</sub>, so the terminology is <a href=""https://en.wikipedia.org/wiki/Consistent"" class=""mw-redirect"" title=""Consistent"">consistent</a>.) Every completely normal Hausdorff space is normal Hausdorff.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Completely_regular_space"" class=""mw-redirect"" title=""Completely regular space"">Completely regular</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Completely_regular_space"" class=""mw-redirect"" title=""Completely regular space"">completely regular</a> if, whenever <i>C</i> is a closed set and <i>x</i> is a point not in <i>C</i>, then <i>C</i> and {<i>x</i>} are functionally separated.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Completely_T3_space"" class=""mw-redirect"" title=""Completely T3 space"">Completely T<sub>3</sub></a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">Tychonoff</a></b>.</dd></dl>"
+"<dl><dt>Component</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Connected_space"" title=""Connected space"">Connected component</a></b>/<b>Path-connected component</b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Connected_(topology)"" class=""mw-redirect"" title=""Connected (topology)"">Connected</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Connected_(topology)"" class=""mw-redirect"" title=""Connected (topology)"">connected</a> if it is not the union of a pair of <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> nonempty open sets. Equivalently, a space is connected if the only clopen sets are the whole space and the empty set.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Connected_space"" title=""Connected space"">Connected component</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Connected_space"" title=""Connected space"">connected component</a> of a space is a <a href=""https://en.wikipedia.org/wiki/Maximal_set"" title=""Maximal set"">maximal</a> nonempty connected subspace. Each connected component is closed, and the set of connected components of a space is a <a href=""https://en.wikipedia.org/wiki/Partition_of_a_set"" title=""Partition of a set"">partition</a> of that space.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Continuity_(topology)"" class=""mw-redirect"" title=""Continuity (topology)"">Continuous</a></dt>"¬"
+<dd>A function from one space to another is <a href=""https://en.wikipedia.org/wiki/Continuity_(topology)"" class=""mw-redirect"" title=""Continuity (topology)"">continuous</a> if the <a href=""https://en.wikipedia.org/wiki/Preimage"" class=""mw-redirect"" title=""Preimage"">preimage</a> of every open set is open.</dd></dl>"
+"<dl><dt>Continuum</dt>"¬"
+<dd>A space is called a continuum if it a compact, connected Hausdorff space.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Contractible_space"" title=""Contractible space"">Contractible</a></dt>"¬"
+<dd>A space <i>X</i> is contractible if the <a href=""https://en.wikipedia.org/wiki/Identity_function"" title=""Identity function"">identity map</a> on <i>X</i> is homotopic to a constant map. Every contractible space is simply connected.</dd></dl>"
+"<dl><dt>Coproduct topology</dt>"¬"
+<dd>If {<i>X</i><sub><i>i</i></sub>} is a collection of spaces and <i>X</i> is the (set-theoretic) <a href=""https://en.wikipedia.org/wiki/Disjoint_union"" title=""Disjoint union"">disjoint union</a> of {<i>X</i><sub><i>i</i></sub>}, then the coproduct topology (or <b>disjoint union topology</b>, <b>topological sum</b> of the <i>X</i><sub><i>i</i></sub>) on <i>X</i> is the finest topology for which all the injection maps are continuous.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Cosmic_space"" title=""Cosmic space"">Cosmic space</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Continuous_function"" title=""Continuous function"">continuous</a> <a href=""https://en.wikipedia.org/wiki/Image_(mathematics)"" title=""Image (mathematics)"">image</a> of some <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable</a> <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric space</a>.<sup id=""cite_ref-2"" class=""reference""><a href=""#cite_note-2"">&#91;2&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Countable_chain_condition"" title=""Countable chain condition"">Countable chain condition</a></dt>"¬"
+<dd>A space <i>X</i> satisfies the countable chain condition if every family of non-empty, pairswise disjoint open sets is countable.</dd></dl>"
+"<dl><dt>Countably compact</dt>"¬"
+<dd>A space is countably compact if every <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> open cover has a <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> subcover. Every countably compact space is pseudocompact and weakly countably compact.</dd></dl>"
+"<dl><dt>Countably locally finite</dt>"¬"
+<dd>A collection of subsets of a space <i>X</i> is <b>countably locally finite</b> (or <b>σ-locally finite</b>) if it is the union of a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> collection of locally finite collections of subsets of <i>X</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Cover_(topology)"" title=""Cover (topology)"">Cover</a></dt>"¬"
+<dd>A collection of subsets of a space is a cover (or <b>covering</b>) of that space if the union of the collection is the whole space.</dd></dl>"
+"<dl><dt>Covering</dt>"¬"
+<dd>See <b>Cover</b>.</dd></dl>"
+"<dl><dt>Cut point</dt>"¬"
+<dd>If <i>X</i> is a connected space with more than one point, then a point <i>x</i> of <i>X</i> is a cut point if the subspace <i>X</i> − {<i>x</i>} is disconnected.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Dense_set"" title=""Dense set"">Dense set</a></dt>"¬"
+<dd>A set is dense if it has nonempty intersection with every nonempty open set. Equivalently, a set is dense if its closure is the whole space.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Dense-in-itself"" title=""Dense-in-itself"">Dense-in-itself</a> set</dt>"¬"
+<dd>A set is dense-in-itself if it has no <a href=""https://en.wikipedia.org/wiki/Isolated_point"" title=""Isolated point"">isolated point</a>.</dd></dl>"
+"<dl><dt>Density</dt>"¬"
+<dd>the minimal cardinality of a dense subset of a topological space.  A set of density ℵ<sub>0</sub> is a <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable space</a>.<sup id=""cite_ref-3"" class=""reference""><a href=""#cite_note-3"">&#91;3&#93;</a></sup></dd></dl>"
+"<dl><dt>Derived set</dt>"¬"
+<dd>If <i>X</i> is a space and <i>S</i> is a subset of <i>X</i>, the derived set of <i>S</i> in <i>X</i> is the set of limit points of <i>S</i> in <i>X</i>.</dd></dl>"
+"<dl><dt>Developable space</dt>"¬"
+<dd>A topological space with a <a href=""https://en.wikipedia.org/wiki/Development_(topology)"" title=""Development (topology)"">development</a>.<sup id=""cite_ref-ss163_4-0"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Development_(topology)"" title=""Development (topology)"">Development</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Countable_set"" title=""Countable set"">countable</a> collection of <a href=""https://en.wikipedia.org/wiki/Open_cover"" class=""mw-redirect"" title=""Open cover"">open covers</a> of a topological space, such that for any closed set <i>C</i> and any point <i>p</i> in its complement there exists a cover in the collection such that every neighbourhood of <i>p</i> in the cover is <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> from <i>C</i>.<sup id=""cite_ref-ss163_4-1"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>"
+"<dl><dt>Diameter</dt>"¬"
+<dd>If (<i>M</i>, <i>d</i>) is a metric space and <i>S</i> is a subset of <i>M</i>, the diameter of <i>S</i> is the <a href=""https://en.wikipedia.org/wiki/Supremum"" class=""mw-redirect"" title=""Supremum"">supremum</a> of the distances <i>d</i>(<i>x</i>, <i>y</i>), where <i>x</i> and <i>y</i> range over <i>S</i>.</dd></dl>"
+"<dl><dt>Discrete metric</dt>"¬"
+<dd>The discrete metric on a set <i>X</i> is the function <i>d</i>&#160;: <i>X</i> × <i>X</i> &#160;→&#160; <b><a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">R</a></b> such that for all <i>x</i>, <i>y</i> in <i>X</i>, <i>d</i>(<i>x</i>, <i>x</i>) = 0 and <i>d</i>(<i>x</i>, <i>y</i>) = 1 if <i>x</i> ≠ <i>y</i>. The discrete metric induces the discrete topology on <i>X</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Discrete_space"" title=""Discrete space"">Discrete space</a></dt>"¬"
+<dd>A space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Discrete_space"" title=""Discrete space"">discrete</a> if every subset of <i>X</i> is open. We say that <i>X</i> carries the <b>discrete topology</b>.<sup id=""cite_ref-ss41_5-0"" class=""reference""><a href=""#cite_note-ss41-5"">&#91;5&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Discrete_topology"" class=""mw-redirect"" title=""Discrete topology"">Discrete topology</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Discrete_space"" title=""Discrete space"">discrete space</a></b>.</dd></dl>"
+"<dl><dt>Disjoint union topology</dt>"¬"
+<dd>See <b>Coproduct topology</b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Dispersion_point"" title=""Dispersion point"">Dispersion point</a></dt>"¬"
+<dd>If <i>X</i> is a connected space with more than one point, then a point <i>x</i> of <i>X</i> is a dispersion point if the subspace <i>X</i> − {<i>x</i>} is hereditarily disconnected (its only connected components are the one-point sets).</dd></dl>"
+"<dl><dt>Distance</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric space</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Dunce_hat_(topology)"" title=""Dunce hat (topology)"">Dunce hat (topology)</a></dt></dl>"¬""
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Entourage_(topology)"" class=""mw-redirect"" title=""Entourage (topology)"">Entourage</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></b>.</dd></dl>"
+"<dl><dt>Exterior</dt>"¬"
+<dd>The exterior of a set is the interior of its complement.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/F-sigma_set"" class=""mw-redirect"" title=""F-sigma set""><i>F</i><sub>σ</sub> set</a></dt>"¬"
+<dd>An <a href=""https://en.wikipedia.org/wiki/F-sigma_set"" class=""mw-redirect"" title=""F-sigma set""><i>F</i><sub>σ</sub> set</a> is a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> union of closed sets.<sup id=""cite_ref-ss162_6-0"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Filter_(mathematics)"" title=""Filter (mathematics)"">Filter</a></dt>"¬"
 <dd>A filter on a space <i>X</i> is a nonempty family <i>F</i> of subsets of <i>X</i> such that the following conditions hold:
 <ol><li>The <a href=""https://en.wikipedia.org/wiki/Empty_set"" title=""Empty set"">empty set</a> is not in <i>F</i>.</li>
 <li>The intersection of any <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> number of elements of <i>F</i> is again in <i>F</i>.</li>
-<li>If <i>A</i> is in <i>F</i> and if <i>B</i> contains <i>A</i>, then <i>B</i> is in <i>F</i>.</li></ol></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Final_topology"" title=""Final topology"">Final topology</a></dt>
+<li>If <i>A</i> is in <i>F</i> and if <i>B</i> contains <i>A</i>, then <i>B</i> is in <i>F</i>.</li></ol></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Final_topology"" title=""Final topology"">Final topology</a></dt>"¬"
 <dd>On a set <i>X</i> with respect to a family of functions into <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -302,8 +302,8 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle X}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.98ex; height:2.176ex;"" alt=""X""/></span>, is the <a href=""https://en.wikipedia.org/wiki/Finest_topology"" class=""mw-redirect"" title=""Finest topology"">finest topology</a> on <i>X</i> which makes those functions <a href=""https://en.wikipedia.org/wiki/Continuous_function_(topology)"" class=""mw-redirect"" title=""Continuous function (topology)"">continuous</a>.<sup id=""cite_ref-7"" class=""reference""><a href=""#cite_note-7"">&#91;7&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Fine_topology_(potential_theory)"" title=""Fine topology (potential theory)"">Fine topology (potential theory)</a></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.98ex; height:2.176ex;"" alt=""X""/></span>, is the <a href=""https://en.wikipedia.org/wiki/Finest_topology"" class=""mw-redirect"" title=""Finest topology"">finest topology</a> on <i>X</i> which makes those functions <a href=""https://en.wikipedia.org/wiki/Continuous_function_(topology)"" class=""mw-redirect"" title=""Continuous function (topology)"">continuous</a>.<sup id=""cite_ref-7"" class=""reference""><a href=""#cite_note-7"">&#91;7&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Fine_topology_(potential_theory)"" title=""Fine topology (potential theory)"">Fine topology (potential theory)</a></dt>"¬"
 <dd>On <a href=""https://en.wikipedia.org/wiki/Euclidean_space"" title=""Euclidean space"">Euclidean space</a> <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \mathbb {R} ^{n}}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -320,30 +320,30 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle \mathbb {R} ^{n}}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c510b63578322050121fe966f2e5770bea43308d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:2.897ex; height:2.343ex;"" alt=""\mathbb {R} ^{n}""/></span>, the coarsest topology making all <a href=""https://en.wikipedia.org/wiki/Subharmonic_function"" title=""Subharmonic function"">subharmonic functions</a> (equivalently all superharmonic functions) continuous.<sup id=""cite_ref-8"" class=""reference""><a href=""#cite_note-8"">&#91;8&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Finer_topology"" class=""mw-redirect"" title=""Finer topology"">Finer topology</a></dt>
-<dd>If <i>X</i> is a set, and if <i>T</i><sub>1</sub> and <i>T</i><sub>2</sub> are topologies on <i>X</i>, then <i>T</i><sub>2</sub> is <a href=""https://en.wikipedia.org/wiki/Finer_topology"" class=""mw-redirect"" title=""Finer topology"">finer</a> (or <b>larger</b>, <b>stronger</b>) than <i>T</i><sub>1</sub> if <i>T</i><sub>2</sub> contains <i>T</i><sub>1</sub>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>weaker</b>.</dd></dl>
-<dl><dt>Finitely generated</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Alexandrov_topology"" title=""Alexandrov topology"">Alexandrov topology</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/First_category"" class=""mw-redirect"" title=""First category"">First category</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Meagre_set"" title=""Meagre set"">Meagre</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/First-countable_space"" title=""First-countable space"">First-countable</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/First-countable_space"" title=""First-countable space"">first-countable</a> if every point has a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> local base.</dd></dl>
-<dl><dt>Fréchet</dt>
-<dd>See <b>T<sub>1</sub></b>.</dd></dl>
-<dl><dt>Frontier</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Boundary_(topology)"" title=""Boundary (topology)"">Boundary</a></b>.</dd></dl>
-<dl><dt>Full set</dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Compact_space"" title=""Compact space"">compact</a> subset <i>K</i> of the <a href=""https://en.wikipedia.org/wiki/Complex_plane"" title=""Complex plane"">complex plane</a> is called <b>full</b> if its <a href=""https://en.wikipedia.org/wiki/Complement_(set_theory)"" title=""Complement (set theory)"">complement</a> is connected. For example, the <a href=""https://en.wikipedia.org/wiki/Closed_unit_disk"" class=""mw-redirect"" title=""Closed unit disk"">closed unit disk</a> is full, while the <a href=""https://en.wikipedia.org/wiki/Unit_circle"" title=""Unit circle"">unit circle</a> is not.</dd></dl>
-<dl><dt>Functionally separated</dt>
-<dd>Two sets <i>A</i> and <i>B</i> in a space <i>X</i> are functionally separated if there is a continuous map <i>f</i>: <i>X</i> &#160;→&#160; [0, 1] such that <i>f</i>(<i>A</i>) = 0 and <i>f</i>(<i>B</i>) = 1.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/G-delta_set"" class=""mw-redirect"" title=""G-delta set""><i>G</i><sub>δ</sub> set</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/G-delta_set"" class=""mw-redirect"" title=""G-delta set""><i>G</i><sub>δ</sub> set</a> or <b>inner limiting set</b> is a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> intersection of open sets.<sup id=""cite_ref-ss162_6-1"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>
-<dl><dt><i>G</i><sub>δ</sub> space</dt>
-<dd>A space in which every closed set is a <i>G</i><sub>δ</sub> set.<sup id=""cite_ref-ss162_6-2"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">Generic point</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">generic point</a> for a closed set is a point for which the closed set is the closure of the singleton set containing that point.<sup id=""cite_ref-9"" class=""reference""><a href=""#cite_note-9"">&#91;9&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff</a></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/c510b63578322050121fe966f2e5770bea43308d"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:2.897ex; height:2.343ex;"" alt=""\mathbb {R} ^{n}""/></span>, the coarsest topology making all <a href=""https://en.wikipedia.org/wiki/Subharmonic_function"" title=""Subharmonic function"">subharmonic functions</a> (equivalently all superharmonic functions) continuous.<sup id=""cite_ref-8"" class=""reference""><a href=""#cite_note-8"">&#91;8&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Finer_topology"" class=""mw-redirect"" title=""Finer topology"">Finer topology</a></dt>"¬"
+<dd>If <i>X</i> is a set, and if <i>T</i><sub>1</sub> and <i>T</i><sub>2</sub> are topologies on <i>X</i>, then <i>T</i><sub>2</sub> is <a href=""https://en.wikipedia.org/wiki/Finer_topology"" class=""mw-redirect"" title=""Finer topology"">finer</a> (or <b>larger</b>, <b>stronger</b>) than <i>T</i><sub>1</sub> if <i>T</i><sub>2</sub> contains <i>T</i><sub>1</sub>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>weaker</b>.</dd></dl>"
+"<dl><dt>Finitely generated</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Alexandrov_topology"" title=""Alexandrov topology"">Alexandrov topology</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/First_category"" class=""mw-redirect"" title=""First category"">First category</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Meagre_set"" title=""Meagre set"">Meagre</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/First-countable_space"" title=""First-countable space"">First-countable</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/First-countable_space"" title=""First-countable space"">first-countable</a> if every point has a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> local base.</dd></dl>"
+"<dl><dt>Fréchet</dt>"¬"
+<dd>See <b>T<sub>1</sub></b>.</dd></dl>"
+"<dl><dt>Frontier</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Boundary_(topology)"" title=""Boundary (topology)"">Boundary</a></b>.</dd></dl>"
+"<dl><dt>Full set</dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Compact_space"" title=""Compact space"">compact</a> subset <i>K</i> of the <a href=""https://en.wikipedia.org/wiki/Complex_plane"" title=""Complex plane"">complex plane</a> is called <b>full</b> if its <a href=""https://en.wikipedia.org/wiki/Complement_(set_theory)"" title=""Complement (set theory)"">complement</a> is connected. For example, the <a href=""https://en.wikipedia.org/wiki/Closed_unit_disk"" class=""mw-redirect"" title=""Closed unit disk"">closed unit disk</a> is full, while the <a href=""https://en.wikipedia.org/wiki/Unit_circle"" title=""Unit circle"">unit circle</a> is not.</dd></dl>"
+"<dl><dt>Functionally separated</dt>"¬"
+<dd>Two sets <i>A</i> and <i>B</i> in a space <i>X</i> are functionally separated if there is a continuous map <i>f</i>: <i>X</i> &#160;→&#160; [0, 1] such that <i>f</i>(<i>A</i>) = 0 and <i>f</i>(<i>B</i>) = 1.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/G-delta_set"" class=""mw-redirect"" title=""G-delta set""><i>G</i><sub>δ</sub> set</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/G-delta_set"" class=""mw-redirect"" title=""G-delta set""><i>G</i><sub>δ</sub> set</a> or <b>inner limiting set</b> is a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> intersection of open sets.<sup id=""cite_ref-ss162_6-1"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>"
+"<dl><dt><i>G</i><sub>δ</sub> space</dt>"¬"
+<dd>A space in which every closed set is a <i>G</i><sub>δ</sub> set.<sup id=""cite_ref-ss162_6-2"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">Generic point</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">generic point</a> for a closed set is a point for which the closed set is the closure of the singleton set containing that point.<sup id=""cite_ref-9"" class=""reference""><a href=""#cite_note-9"">&#91;9&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff</a></dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff space</a> (or <b><a href=""https://en.wikipedia.org/wiki/T2_space"" class=""mw-redirect"" title=""T2 space"">T<sub>2</sub></a> space</b>) is one in which every two distinct points have <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> neighbourhoods. Every Hausdorff space is T<sub>1</sub>.</dd>
 <dt><a href=""https://en.wikipedia.org/wiki/H-closed_space"" title=""H-closed space"">H-closed</a></dt>
 <dd>A space is H-closed, or <b>Hausdorff closed</b> or <b>absolutely closed</b>, if it is closed in every Hausdorff space containing it.</dd>
@@ -360,8 +360,8 @@
 <dt>Homotopy</dt>
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/Homotopic"" class=""mw-redirect"" title=""Homotopic"">Homotopic maps</a></b>.</dd>
 <dt><a href=""https://en.wikipedia.org/wiki/Hyperconnected_space"" title=""Hyperconnected space"">Hyper-connected</a></dt>
-<dd>A space is hyper-connected if no two non-empty open sets are disjoint<sup id=""cite_ref-ss29_11-0"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup>  Every hyper-connected space is connected.<sup id=""cite_ref-ss29_11-1"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup></dd></dl>
-<dl><dt>Identification map</dt>
+<dd>A space is hyper-connected if no two non-empty open sets are disjoint<sup id=""cite_ref-ss29_11-0"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup>  Every hyper-connected space is connected.<sup id=""cite_ref-ss29_11-1"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup></dd></dl>"
+"<dl><dt>Identification map</dt>"¬"
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/Quotient_map"" class=""mw-redirect"" title=""Quotient map"">Quotient map</a></b>.</dd>
 <dt><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Identification space</a></dt>
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Quotient space</a></b>.</dd>
@@ -380,17 +380,17 @@
 <dt>Isometric isomorphism</dt>
 <dd>If <i>M</i><sub>1</sub> and <i>M</i><sub>2</sub> are metric spaces, an isometric isomorphism from <i>M</i><sub>1</sub> to <i>M</i><sub>2</sub> is a <a href=""https://en.wikipedia.org/wiki/Bijection"" title=""Bijection"">bijective</a> isometry <i>f</i>&#160;: <i>M</i><sub>1</sub> &#160;→&#160; <i>M</i><sub>2</sub>. The metric spaces are then said to be <b>isometrically isomorphic</b>. From the standpoint of metric space theory, isometrically isomorphic spaces are identical.</dd>
 <dt>Isometry</dt>
-<dd>If (<i>M</i><sub>1</sub>, <i>d</i><sub>1</sub>) and (<i>M</i><sub>2</sub>, <i>d</i><sub>2</sub>) are metric spaces, an isometry from <i>M</i><sub>1</sub> to <i>M</i><sub>2</sub> is a function <i>f</i>&#160;: <i>M</i><sub>1</sub> &#160;→&#160; <i>M</i><sub>2</sub> such that <i>d</i><sub>2</sub>(<i>f</i>(<i>x</i>), <i>f</i>(<i>y</i>)) = <i>d</i><sub>1</sub>(<i>x</i>, <i>y</i>) for all <i>x</i>, <i>y</i> in <i>M</i><sub>1</sub>. Every isometry is <a href=""https://en.wikipedia.org/wiki/Injective_function"" title=""Injective function"">injective</a>, although not every isometry is <a href=""https://en.wikipedia.org/wiki/Surjection"" class=""mw-redirect"" title=""Surjection"">surjective</a>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Kolmogorov_space"" title=""Kolmogorov space"">Kolmogorov axiom</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/T0_space"" class=""mw-redirect"" title=""T0 space"">T<sub>0</sub></a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Kuratowski_closure_axioms"" title=""Kuratowski closure axioms"">Kuratowski closure axioms</a></dt>
+<dd>If (<i>M</i><sub>1</sub>, <i>d</i><sub>1</sub>) and (<i>M</i><sub>2</sub>, <i>d</i><sub>2</sub>) are metric spaces, an isometry from <i>M</i><sub>1</sub> to <i>M</i><sub>2</sub> is a function <i>f</i>&#160;: <i>M</i><sub>1</sub> &#160;→&#160; <i>M</i><sub>2</sub> such that <i>d</i><sub>2</sub>(<i>f</i>(<i>x</i>), <i>f</i>(<i>y</i>)) = <i>d</i><sub>1</sub>(<i>x</i>, <i>y</i>) for all <i>x</i>, <i>y</i> in <i>M</i><sub>1</sub>. Every isometry is <a href=""https://en.wikipedia.org/wiki/Injective_function"" title=""Injective function"">injective</a>, although not every isometry is <a href=""https://en.wikipedia.org/wiki/Surjection"" class=""mw-redirect"" title=""Surjection"">surjective</a>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Kolmogorov_space"" title=""Kolmogorov space"">Kolmogorov axiom</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/T0_space"" class=""mw-redirect"" title=""T0 space"">T<sub>0</sub></a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Kuratowski_closure_axioms"" title=""Kuratowski closure axioms"">Kuratowski closure axioms</a></dt>"¬"
 <dd>The <a href=""https://en.wikipedia.org/wiki/Kuratowski_closure_axioms"" title=""Kuratowski closure axioms"">Kuratowski closure axioms</a> is a set of <a href=""https://en.wikipedia.org/wiki/Axiom"" title=""Axiom"">axioms</a> satisfied by the function which takes each subset of <i>X</i> to its closure:
 <ol><li><i><a href=""https://en.wikipedia.org/wiki/Isotone_function"" class=""mw-redirect"" title=""Isotone function"">Isotonicity</a></i>: Every set is contained in its closure.</li>
 <li><i><a href=""https://en.wikipedia.org/wiki/Idempotent_function"" class=""mw-redirect"" title=""Idempotent function"">Idempotence</a></i>: The closure of the closure of a set is equal to the closure of that set.</li>
 <li><i>Preservation of binary unions</i>: The closure of the union of two sets is the union of their closures.</li>
 <li><i>Preservation of nullary unions</i>: The closure of the empty set is empty.</li></ol></dd>
-<dd>If <i>c</i> is a function from the <a href=""https://en.wikipedia.org/wiki/Power_set"" title=""Power set"">power set</a> of <i>X</i> to itself, then <i>c</i> is a <b>closure operator</b> if it satisfies the Kuratowski closure axioms. The Kuratowski closure axioms can then be used to define a topology on <i>X</i> by declaring the closed sets to be the <a href=""https://en.wikipedia.org/wiki/Fixed_point_(mathematics)"" title=""Fixed point (mathematics)"">fixed points</a> of this operator, i.e. a set <i>A</i> is closed <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> <i>c</i>(<i>A</i>) = <i>A</i>.</dd></dl>
-<dl><dt>Kolmogorov topology</dt>
+<dd>If <i>c</i> is a function from the <a href=""https://en.wikipedia.org/wiki/Power_set"" title=""Power set"">power set</a> of <i>X</i> to itself, then <i>c</i> is a <b>closure operator</b> if it satisfies the Kuratowski closure axioms. The Kuratowski closure axioms can then be used to define a topology on <i>X</i> by declaring the closed sets to be the <a href=""https://en.wikipedia.org/wiki/Fixed_point_(mathematics)"" title=""Fixed point (mathematics)"">fixed points</a> of this operator, i.e. a set <i>A</i> is closed <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> <i>c</i>(<i>A</i>) = <i>A</i>.</dd></dl>"
+"<dl><dt>Kolmogorov topology</dt>"¬"
 <dd>T<sub><i>Kol</i></sub> = {R, <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \varnothing }"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -400,80 +400,80 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle \varnothing }</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/00595c5e33692e724937fdcc8870496acce1ac74"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.808ex; height:2.009ex;"" alt=""\varnothing ""/></span>}∪{(a,∞): a is real number}; the pair (R,T<sub><i>Kol</i></sub>) is named <i>Kolmogorov Straight</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/S_and_L_spaces"" title=""S and L spaces"">L-space</a></dt>
-<dd>An <i>L-space</i> is a <a href=""https://en.wikipedia.org/wiki/Hereditary_property#In_topology"" title=""Hereditary property"">hereditarily</a> <a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a> space which is not hereditarily <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable</a>.  A <a href=""https://en.wikipedia.org/wiki/Suslin_line"" class=""mw-redirect"" title=""Suslin line"">Suslin line</a> would be an L-space.<sup id=""cite_ref-GKW290_12-0"" class=""reference""><a href=""#cite_note-GKW290-12"">&#91;12&#93;</a></sup></dd></dl>
-<dl><dt>Larger topology</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Finer_topology"" class=""mw-redirect"" title=""Finer topology"">Finer topology</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Limit_point"" title=""Limit point"">Limit point</a></dt>
-<dd>A point <i>x</i> in a space <i>X</i> is a <a href=""https://en.wikipedia.org/wiki/Limit_point"" title=""Limit point"">limit point</a> of a subset <i>S</i> if every open set containing <i>x</i> also contains a point of <i>S</i> other than <i>x</i> itself. This is equivalent to requiring that every neighbourhood of <i>x</i> contains a point of <i>S</i> other than <i>x</i> itself.</dd></dl>
-<dl><dt>Limit point compact</dt>
-<dd>See <b>Weakly countably compact</b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a> if every open cover has a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> subcover.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Local_base"" class=""mw-redirect"" title=""Local base"">Local base</a></dt>
-<dd>A set <i>B</i> of neighbourhoods of a point <i>x</i> of a space <i>X</i> is a local base (or <b>local basis</b>, <b>neighbourhood base</b>, <b>neighbourhood basis</b>) at <i>x</i> if every neighbourhood of <i>x</i> contains some member of <i>B</i>.</dd></dl>
-<dl><dt>Local basis</dt>
-<dd>See <b>Local base</b>.</dd></dl>
-<dl><dt>Locally (P) space</dt>
-<dd>There are two definitions for a space to be ""locally (P)"" where (P) is a topological or set-theoretic property: that each point has a neighbourhood with property (P), or that every point has a neighourbood base for which each member has property (P).  The first definition is usually taken for locally compact, countably compact, metrisable, separable, countable; the second for locally connected.<sup id=""cite_ref-EGT65_13-0"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup></dd></dl>
-<dl><dt>Locally closed subset</dt>
-<dd>A subset of a topological space that is the intersection of an open and a closed subset.  Equivalently, it is a relatively open subset of its closure.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Locally_compact_space"" title=""Locally compact space"">Locally compact</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Locally_compact_space"" title=""Locally compact space"">locally compact</a> if every point has a compact neighbourhood: the alternative definition that each point has a local base consisting of compact neighbourhoods is sometimes used: these are equivalent for Hausdorff spaces.<sup id=""cite_ref-EGT65_13-1"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup>  Every locally compact Hausdorff space is Tychonoff.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Locally_connected"" class=""mw-redirect"" title=""Locally connected"">Locally connected</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Locally_connected"" class=""mw-redirect"" title=""Locally connected"">locally connected</a> if every point has a local base consisting of connected neighbourhoods.<sup id=""cite_ref-EGT65_13-2"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Locally_finite_collection"" title=""Locally finite collection"">Locally finite</a></dt>
-<dd>A collection of subsets of a space is <a href=""https://en.wikipedia.org/wiki/Locally_finite_collection"" title=""Locally finite collection"">locally finite</a> if every point has a neighbourhood which has nonempty intersection with only <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finitely</a> many of the subsets.  See also <b>countably locally finite</b>, <b><a href=""https://en.wikipedia.org/wiki/Point_finite"" class=""mw-redirect"" title=""Point finite"">point finite</a></b>.</dd></dl>
-<dl><dt>Locally metrizable<b>/</b>Locally metrisable</dt>
-<dd>A space is locally metrizable if every point has a metrizable neighbourhood.<sup id=""cite_ref-EGT65_13-3"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Locally_path-connected"" class=""mw-redirect"" title=""Locally path-connected"">Locally path-connected</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Locally_path-connected"" class=""mw-redirect"" title=""Locally path-connected"">locally path-connected</a> if every point has a local base consisting of path-connected neighbourhoods.<sup id=""cite_ref-EGT65_13-4"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup>  A locally path-connected space is connected <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is path-connected.</dd></dl>
-<dl><dt>Locally simply connected</dt>
-<dd>A space is locally simply connected if every point has a local base consisting of simply connected neighbourhoods.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Loop_(topology)"" title=""Loop (topology)"">Loop</a></dt>
-<dd>If <i>x</i> is a point in a space <i>X</i>, a <a href=""https://en.wikipedia.org/wiki/Loop_(topology)"" title=""Loop (topology)"">loop</a> at <i>x</i> in <i>X</i> (or a loop in <i>X</i> with basepoint <i>x</i>) is a path <i>f</i> in <i>X</i>, such that <i>f</i>(0) = <i>f</i>(1) = <i>x</i>. Equivalently, a loop in <i>X</i> is a continuous map from the <a href=""https://en.wikipedia.org/wiki/Unit_circle"" title=""Unit circle"">unit circle</a> <i>S</i><sup>1</sup> into <i>X</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Meagre_set"" title=""Meagre set"">Meagre</a></dt>
-<dd>If <i>X</i> is a space and <i>A</i> is a subset of <i>X</i>, then <i>A</i> is meagre in <i>X</i> (or of <b>first category</b> in <i>X</i>) if it is the <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> union of nowhere dense sets.  If <i>A</i> is not meagre in <i>X</i>, <i>A</i> is of <b>second category</b> in <i>X</i>.<sup id=""cite_ref-ss7_14-0"" class=""reference""><a href=""#cite_note-ss7-14"">&#91;14&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Metacompact_space"" title=""Metacompact space"">Metacompact</a></dt>
-<dd>A space is metacompact if every open cover has a point finite open refinement.</dd></dl>
-<dl><dt>Metric</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">Metric space</a></b>.</dd></dl>
-<dl><dt>Metric invariant</dt>
-<dd>A metric invariant is a property which is preserved under isometric isomorphism.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">Metric map</a></dt>
-<dd>If <i>X</i> and <i>Y</i> are metric spaces with metrics <i>d</i><sub><i>X</i></sub> and <i>d</i><sub><i>Y</i></sub> respectively, then a <a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">metric map</a> is a function <i>f</i> from <i>X</i> to <i>Y</i>, such that for any points <i>x</i> and <i>y</i> in <i>X</i>, <i>d</i><sub><i>Y</i></sub>(<i>f</i>(<i>x</i>), <i>f</i>(<i>y</i>)) ≤ <i>d</i><sub><i>X</i></sub>(<i>x</i>, <i>y</i>). A metric map is <a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">strictly metric</a> if the above inequality is strict for all <i>x</i> and <i>y</i> in <i>X</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">Metric space</a></dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/00595c5e33692e724937fdcc8870496acce1ac74"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.808ex; height:2.009ex;"" alt=""\varnothing ""/></span>}∪{(a,∞): a is real number}; the pair (R,T<sub><i>Kol</i></sub>) is named <i>Kolmogorov Straight</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/S_and_L_spaces"" title=""S and L spaces"">L-space</a></dt>"¬"
+<dd>An <i>L-space</i> is a <a href=""https://en.wikipedia.org/wiki/Hereditary_property#In_topology"" title=""Hereditary property"">hereditarily</a> <a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a> space which is not hereditarily <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable</a>.  A <a href=""https://en.wikipedia.org/wiki/Suslin_line"" class=""mw-redirect"" title=""Suslin line"">Suslin line</a> would be an L-space.<sup id=""cite_ref-GKW290_12-0"" class=""reference""><a href=""#cite_note-GKW290-12"">&#91;12&#93;</a></sup></dd></dl>"
+"<dl><dt>Larger topology</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Finer_topology"" class=""mw-redirect"" title=""Finer topology"">Finer topology</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Limit_point"" title=""Limit point"">Limit point</a></dt>"¬"
+<dd>A point <i>x</i> in a space <i>X</i> is a <a href=""https://en.wikipedia.org/wiki/Limit_point"" title=""Limit point"">limit point</a> of a subset <i>S</i> if every open set containing <i>x</i> also contains a point of <i>S</i> other than <i>x</i> itself. This is equivalent to requiring that every neighbourhood of <i>x</i> contains a point of <i>S</i> other than <i>x</i> itself.</dd></dl>"
+"<dl><dt>Limit point compact</dt>"¬"
+<dd>See <b>Weakly countably compact</b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a> if every open cover has a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> subcover.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Local_base"" class=""mw-redirect"" title=""Local base"">Local base</a></dt>"¬"
+<dd>A set <i>B</i> of neighbourhoods of a point <i>x</i> of a space <i>X</i> is a local base (or <b>local basis</b>, <b>neighbourhood base</b>, <b>neighbourhood basis</b>) at <i>x</i> if every neighbourhood of <i>x</i> contains some member of <i>B</i>.</dd></dl>"
+"<dl><dt>Local basis</dt>"¬"
+<dd>See <b>Local base</b>.</dd></dl>"
+"<dl><dt>Locally (P) space</dt>"¬"
+<dd>There are two definitions for a space to be ""locally (P)"" where (P) is a topological or set-theoretic property: that each point has a neighbourhood with property (P), or that every point has a neighourbood base for which each member has property (P).  The first definition is usually taken for locally compact, countably compact, metrisable, separable, countable; the second for locally connected.<sup id=""cite_ref-EGT65_13-0"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup></dd></dl>"
+"<dl><dt>Locally closed subset</dt>"¬"
+<dd>A subset of a topological space that is the intersection of an open and a closed subset.  Equivalently, it is a relatively open subset of its closure.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Locally_compact_space"" title=""Locally compact space"">Locally compact</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Locally_compact_space"" title=""Locally compact space"">locally compact</a> if every point has a compact neighbourhood: the alternative definition that each point has a local base consisting of compact neighbourhoods is sometimes used: these are equivalent for Hausdorff spaces.<sup id=""cite_ref-EGT65_13-1"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup>  Every locally compact Hausdorff space is Tychonoff.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Locally_connected"" class=""mw-redirect"" title=""Locally connected"">Locally connected</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Locally_connected"" class=""mw-redirect"" title=""Locally connected"">locally connected</a> if every point has a local base consisting of connected neighbourhoods.<sup id=""cite_ref-EGT65_13-2"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Locally_finite_collection"" title=""Locally finite collection"">Locally finite</a></dt>"¬"
+<dd>A collection of subsets of a space is <a href=""https://en.wikipedia.org/wiki/Locally_finite_collection"" title=""Locally finite collection"">locally finite</a> if every point has a neighbourhood which has nonempty intersection with only <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finitely</a> many of the subsets.  See also <b>countably locally finite</b>, <b><a href=""https://en.wikipedia.org/wiki/Point_finite"" class=""mw-redirect"" title=""Point finite"">point finite</a></b>.</dd></dl>"
+"<dl><dt>Locally metrizable<b>/</b>Locally metrisable</dt>"¬"
+<dd>A space is locally metrizable if every point has a metrizable neighbourhood.<sup id=""cite_ref-EGT65_13-3"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Locally_path-connected"" class=""mw-redirect"" title=""Locally path-connected"">Locally path-connected</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Locally_path-connected"" class=""mw-redirect"" title=""Locally path-connected"">locally path-connected</a> if every point has a local base consisting of path-connected neighbourhoods.<sup id=""cite_ref-EGT65_13-4"" class=""reference""><a href=""#cite_note-EGT65-13"">&#91;13&#93;</a></sup>  A locally path-connected space is connected <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is path-connected.</dd></dl>"
+"<dl><dt>Locally simply connected</dt>"¬"
+<dd>A space is locally simply connected if every point has a local base consisting of simply connected neighbourhoods.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Loop_(topology)"" title=""Loop (topology)"">Loop</a></dt>"¬"
+<dd>If <i>x</i> is a point in a space <i>X</i>, a <a href=""https://en.wikipedia.org/wiki/Loop_(topology)"" title=""Loop (topology)"">loop</a> at <i>x</i> in <i>X</i> (or a loop in <i>X</i> with basepoint <i>x</i>) is a path <i>f</i> in <i>X</i>, such that <i>f</i>(0) = <i>f</i>(1) = <i>x</i>. Equivalently, a loop in <i>X</i> is a continuous map from the <a href=""https://en.wikipedia.org/wiki/Unit_circle"" title=""Unit circle"">unit circle</a> <i>S</i><sup>1</sup> into <i>X</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Meagre_set"" title=""Meagre set"">Meagre</a></dt>"¬"
+<dd>If <i>X</i> is a space and <i>A</i> is a subset of <i>X</i>, then <i>A</i> is meagre in <i>X</i> (or of <b>first category</b> in <i>X</i>) if it is the <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> union of nowhere dense sets.  If <i>A</i> is not meagre in <i>X</i>, <i>A</i> is of <b>second category</b> in <i>X</i>.<sup id=""cite_ref-ss7_14-0"" class=""reference""><a href=""#cite_note-ss7-14"">&#91;14&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Metacompact_space"" title=""Metacompact space"">Metacompact</a></dt>"¬"
+<dd>A space is metacompact if every open cover has a point finite open refinement.</dd></dl>"
+"<dl><dt>Metric</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">Metric space</a></b>.</dd></dl>"
+"<dl><dt>Metric invariant</dt>"¬"
+<dd>A metric invariant is a property which is preserved under isometric isomorphism.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">Metric map</a></dt>"¬"
+<dd>If <i>X</i> and <i>Y</i> are metric spaces with metrics <i>d</i><sub><i>X</i></sub> and <i>d</i><sub><i>Y</i></sub> respectively, then a <a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">metric map</a> is a function <i>f</i> from <i>X</i> to <i>Y</i>, such that for any points <i>x</i> and <i>y</i> in <i>X</i>, <i>d</i><sub><i>Y</i></sub>(<i>f</i>(<i>x</i>), <i>f</i>(<i>y</i>)) ≤ <i>d</i><sub><i>X</i></sub>(<i>x</i>, <i>y</i>). A metric map is <a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">strictly metric</a> if the above inequality is strict for all <i>x</i> and <i>y</i> in <i>X</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">Metric space</a></dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric space</a> (<i>M</i>, <i>d</i>) is a set <i>M</i> equipped with a function <i>d</i>&#160;:&#160;<i>M</i>&#160;×&#160;<i>M</i>&#160;→&#160;<b><a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">R</a></b> satisfying the following axioms for all <i>x</i>, <i>y</i>, and <i>z</i> in <i>M</i>:
 <ol><li><i>d</i>(<i>x</i>, <i>y</i>) ≥ 0</li>
 <li><i>d</i>(<i>x</i>, <i>x</i>) = 0</li>
 <li>if &#160; <i>d</i>(<i>x</i>, <i>y</i>) = 0 &#160; then &#160; <i>x</i> = <i>y</i> &#160;&#160;&#160; (<i>identity of indiscernibles</i>)</li>
 <li><i>d</i>(<i>x</i>, <i>y</i>) = <i>d</i>(<i>y</i>, <i>x</i>)  &#160;&#160;&#160; (<i>symmetry</i>)</li>
 <li><i>d</i>(<i>x</i>, <i>z</i>) ≤ <i>d</i>(<i>x</i>, <i>y</i>) + <i>d</i>(<i>y</i>, <i>z</i>) &#160;&#160;&#160;  (<i><a href=""https://en.wikipedia.org/wiki/Triangle_inequality"" title=""Triangle inequality"">triangle inequality</a></i>)</li></ol></dd></dl>
-<dl><dd>The function <i>d</i> is a <b>metric</b> on <i>M</i>, and <i>d</i>(<i>x</i>, <i>y</i>) is the <b>distance</b> between <i>x</i> and <i>y</i>. The collection of all open balls of <i>M</i> is a base for a topology on <i>M</i>; this is the topology on <i>M</i> induced by <i>d</i>. Every metric space is Hausdorff and paracompact (and hence normal and Tychonoff). Every metric space is first-countable.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Metrizable"" class=""mw-redirect"" title=""Metrizable"">Metrizable</a><b>/</b>Metrisable</dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Metrizable"" class=""mw-redirect"" title=""Metrizable"">metrizable</a> if it is homeomorphic to a metric space. Every metrizable space is Hausdorff and paracompact (and hence normal and Tychonoff). Every metrizable space is first-countable.</dd></dl>
-<dl><dt>Monolith</dt>
-<dd>Every non-empty ultra-connected compact space <i>X</i> has a largest proper open subset; this subset is called a <b>monolith</b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Moore_space_(topology)"" title=""Moore space (topology)"">Moore space</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Moore_space_(topology)"" title=""Moore space (topology)"">Moore space</a> is a <a href=""https://en.wikipedia.org/wiki/Developable_space"" class=""mw-redirect"" title=""Developable space"">developable</a> <a href=""https://en.wikipedia.org/wiki/Regular_Hausdorff_space"" class=""mw-redirect"" title=""Regular Hausdorff space"">regular Hausdorff space</a>.<sup id=""cite_ref-ss163_4-2"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Neighbourhood_(mathematics)"" title=""Neighbourhood (mathematics)"">Neighbourhood</a><b>/</b>Neighborhood</dt>
-<dd>A neighbourhood of a point <i>x</i> is a set containing an open set which in turn contains the point <i>x</i>. More generally, a neighbourhood of a set <i>S</i> is a set containing an open set which in turn contains the set <i>S</i>. A neighbourhood of a point <i>x</i> is thus a neighbourhood of the <a href=""https://en.wikipedia.org/wiki/Singleton_(mathematics)"" title=""Singleton (mathematics)"">singleton</a> set {<i>x</i>}. (Note that under this definition, the neighbourhood itself need not be open. Many authors require that neighbourhoods be open; be careful to note conventions.)</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Local_base"" class=""mw-redirect"" title=""Local base"">Neighbourhood base</a>/basis</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Local_base"" class=""mw-redirect"" title=""Local base"">Local base</a></b>.</dd></dl>
-<dl><dt>Neighbourhood system for a point <i>x</i></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Neighbourhood_system"" title=""Neighbourhood system"">neighbourhood system</a> at a point <i>x</i> in a space is the collection of all neighbourhoods of <i>x</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Net_(mathematics)"" title=""Net (mathematics)"">Net</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Net_(mathematics)"" title=""Net (mathematics)"">net</a> in a space <i>X</i> is a map from a <a href=""https://en.wikipedia.org/wiki/Directed_set"" title=""Directed set"">directed set</a> <i>A</i> to <i>X</i>. A net from <i>A</i> to <i>X</i> is usually denoted (<i>x</i><sub>α</sub>), where α is an <a href=""https://en.wikipedia.org/wiki/Index_set"" title=""Index set"">index variable</a> ranging over <i>A</i>. Every <a href=""https://en.wikipedia.org/wiki/Sequence"" title=""Sequence"">sequence</a> is a net, taking <i>A</i> to be the directed set of <a href=""https://en.wikipedia.org/wiki/Natural_number"" title=""Natural number"">natural numbers</a> with the usual ordering.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Normal_space"" title=""Normal space"">Normal</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Normal_space"" title=""Normal space"">normal</a> if any two disjoint closed sets have disjoint neighbourhoods.<sup id=""cite_ref-ss162_6-4"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup>  Every normal space admits a partition of unity.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space"">Normal Hausdorff</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space"">normal Hausdorff</a> space (or <a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space""><b>T<sub>4</sub></b> space</a>) is a normal T<sub>1</sub> space. (A normal space is Hausdorff <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is T<sub>1</sub>, so the terminology is consistent.) Every normal Hausdorff space is Tychonoff.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Nowhere_dense_set"" title=""Nowhere dense set"">Nowhere dense</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Nowhere_dense_set"" title=""Nowhere dense set"">nowhere dense set</a> is a set whose closure has empty interior.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Open_cover"" class=""mw-redirect"" title=""Open cover"">Open cover</a></dt>
-<dd>An <a href=""https://en.wikipedia.org/wiki/Open_cover"" class=""mw-redirect"" title=""Open cover"">open cover</a> is a cover consisting of open sets.<sup id=""cite_ref-ss163_4-3"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>
-<dl><dt>Open ball</dt>
+<dl><dd>The function <i>d</i> is a <b>metric</b> on <i>M</i>, and <i>d</i>(<i>x</i>, <i>y</i>) is the <b>distance</b> between <i>x</i> and <i>y</i>. The collection of all open balls of <i>M</i> is a base for a topology on <i>M</i>; this is the topology on <i>M</i> induced by <i>d</i>. Every metric space is Hausdorff and paracompact (and hence normal and Tychonoff). Every metric space is first-countable.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Metrizable"" class=""mw-redirect"" title=""Metrizable"">Metrizable</a><b>/</b>Metrisable</dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Metrizable"" class=""mw-redirect"" title=""Metrizable"">metrizable</a> if it is homeomorphic to a metric space. Every metrizable space is Hausdorff and paracompact (and hence normal and Tychonoff). Every metrizable space is first-countable.</dd></dl>"
+"<dl><dt>Monolith</dt>"¬"
+<dd>Every non-empty ultra-connected compact space <i>X</i> has a largest proper open subset; this subset is called a <b>monolith</b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Moore_space_(topology)"" title=""Moore space (topology)"">Moore space</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Moore_space_(topology)"" title=""Moore space (topology)"">Moore space</a> is a <a href=""https://en.wikipedia.org/wiki/Developable_space"" class=""mw-redirect"" title=""Developable space"">developable</a> <a href=""https://en.wikipedia.org/wiki/Regular_Hausdorff_space"" class=""mw-redirect"" title=""Regular Hausdorff space"">regular Hausdorff space</a>.<sup id=""cite_ref-ss163_4-2"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Neighbourhood_(mathematics)"" title=""Neighbourhood (mathematics)"">Neighbourhood</a><b>/</b>Neighborhood</dt>"¬"
+<dd>A neighbourhood of a point <i>x</i> is a set containing an open set which in turn contains the point <i>x</i>. More generally, a neighbourhood of a set <i>S</i> is a set containing an open set which in turn contains the set <i>S</i>. A neighbourhood of a point <i>x</i> is thus a neighbourhood of the <a href=""https://en.wikipedia.org/wiki/Singleton_(mathematics)"" title=""Singleton (mathematics)"">singleton</a> set {<i>x</i>}. (Note that under this definition, the neighbourhood itself need not be open. Many authors require that neighbourhoods be open; be careful to note conventions.)</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Local_base"" class=""mw-redirect"" title=""Local base"">Neighbourhood base</a>/basis</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Local_base"" class=""mw-redirect"" title=""Local base"">Local base</a></b>.</dd></dl>"
+"<dl><dt>Neighbourhood system for a point <i>x</i></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Neighbourhood_system"" title=""Neighbourhood system"">neighbourhood system</a> at a point <i>x</i> in a space is the collection of all neighbourhoods of <i>x</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Net_(mathematics)"" title=""Net (mathematics)"">Net</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Net_(mathematics)"" title=""Net (mathematics)"">net</a> in a space <i>X</i> is a map from a <a href=""https://en.wikipedia.org/wiki/Directed_set"" title=""Directed set"">directed set</a> <i>A</i> to <i>X</i>. A net from <i>A</i> to <i>X</i> is usually denoted (<i>x</i><sub>α</sub>), where α is an <a href=""https://en.wikipedia.org/wiki/Index_set"" title=""Index set"">index variable</a> ranging over <i>A</i>. Every <a href=""https://en.wikipedia.org/wiki/Sequence"" title=""Sequence"">sequence</a> is a net, taking <i>A</i> to be the directed set of <a href=""https://en.wikipedia.org/wiki/Natural_number"" title=""Natural number"">natural numbers</a> with the usual ordering.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Normal_space"" title=""Normal space"">Normal</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Normal_space"" title=""Normal space"">normal</a> if any two disjoint closed sets have disjoint neighbourhoods.<sup id=""cite_ref-ss162_6-4"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup>  Every normal space admits a partition of unity.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space"">Normal Hausdorff</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space"">normal Hausdorff</a> space (or <a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space""><b>T<sub>4</sub></b> space</a>) is a normal T<sub>1</sub> space. (A normal space is Hausdorff <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is T<sub>1</sub>, so the terminology is consistent.) Every normal Hausdorff space is Tychonoff.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Nowhere_dense_set"" title=""Nowhere dense set"">Nowhere dense</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Nowhere_dense_set"" title=""Nowhere dense set"">nowhere dense set</a> is a set whose closure has empty interior.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Open_cover"" class=""mw-redirect"" title=""Open cover"">Open cover</a></dt>"¬"
+<dd>An <a href=""https://en.wikipedia.org/wiki/Open_cover"" class=""mw-redirect"" title=""Open cover"">open cover</a> is a cover consisting of open sets.<sup id=""cite_ref-ss163_4-3"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>"
+"<dl><dt>Open ball</dt>"¬"
 <dd>If (<i>M</i>, <i>d</i>) is a metric space, an open ball is a set of the form <i>B</i>(<i>x</i>; <i>r</i>)&#160;:= {<i>y</i> in <i>M</i>&#160;: <i>d</i>(<i>x</i>, <i>y</i>) &lt; <i>r</i>}, where <i>x</i> is in <i>M</i> and <i>r</i> is a <a href=""https://en.wikipedia.org/wiki/Positive_number"" class=""mw-redirect"" title=""Positive number"">positive</a> <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real number</a>, the <b>radius</b> of the ball. An open ball of radius <i>r</i> is an <b>open <i>r</i>-ball</b>. Every open ball is an open set in the topology on <i>M</i> induced by <i>d</i>.</dd>
 <dt>Open condition</dt>
 <dd>See <b>open property</b>.</dd>
@@ -482,58 +482,58 @@
 <dt><a href=""https://en.wikipedia.org/wiki/Open_map"" class=""mw-redirect"" title=""Open map"">Open function</a></dt>
 <dd>A function from one space to another is <a href=""https://en.wikipedia.org/wiki/Open_map"" class=""mw-redirect"" title=""Open map"">open</a> if the <a href=""https://en.wikipedia.org/wiki/Image_(mathematics)"" title=""Image (mathematics)"">image</a> of every open set is open.</dd>
 <dt>Open property</dt>
-<dd>A property of points in a <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is said to be ""open"" if those points which possess it form an <a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">open set</a>.  Such conditions often take a common form, and that form can be said to be an <i>open condition</i>; for example, in <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric spaces</a>, one defines an open ball as above, and says that ""strict inequality is an open condition"".</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Paracompact_space"" title=""Paracompact space"">Paracompact</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Paracompact_space"" title=""Paracompact space"">paracompact</a> if every open cover has a locally finite open refinement.  Paracompact implies metacompact.<sup id=""cite_ref-ss23_15-0"" class=""reference""><a href=""#cite_note-ss23-15"">&#91;15&#93;</a></sup>  Paracompact Hausdorff spaces are normal.<sup id=""cite_ref-ss25_16-0"" class=""reference""><a href=""#cite_note-ss25-16"">&#91;16&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Partition_of_unity"" title=""Partition of unity"">Partition of unity</a></dt>
-<dd>A partition of unity of a space <i>X</i> is a set of continuous functions from <i>X</i> to [0, 1] such that any point has a neighbourhood where all but a <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> number of the functions are identically zero, and the sum of all the functions on the entire space is identically 1.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Path_(topology)"" title=""Path (topology)"">Path</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Path_(topology)"" title=""Path (topology)"">path</a> in a space <i>X</i> is a continuous map <i>f</i> from the closed unit <a href=""https://en.wikipedia.org/wiki/Interval_(mathematics)"" title=""Interval (mathematics)"">interval</a> [0, 1] into <i>X</i>. The point <i>f</i>(0) is the initial point of <i>f</i>; the point <i>f</i>(1) is the terminal point of <i>f</i>.<sup id=""cite_ref-ss29_11-2"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Path-connected_space"" class=""mw-redirect"" title=""Path-connected space"">Path-connected</a></dt>
-<dd>A space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Path-connected_space"" class=""mw-redirect"" title=""Path-connected space"">path-connected</a> if, for every two points <i>x</i>, <i>y</i> in <i>X</i>, there is a path <i>f</i> from <i>x</i> to <i>y</i>, i.e., a path with initial point <i>f</i>(0) = <i>x</i> and terminal point <i>f</i>(1) = <i>y</i>. Every path-connected space is connected.<sup id=""cite_ref-ss29_11-3"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup></dd></dl>
-<dl><dt>Path-connected component</dt>
-<dd>A path-connected component of a space is a maximal nonempty path-connected subspace. The set of path-connected components of a space is a <a href=""https://en.wikipedia.org/wiki/Partition_of_a_set"" title=""Partition of a set"">partition</a> of that space, which is <a href=""https://en.wikipedia.org/wiki/Partition_of_a_set"" title=""Partition of a set"">finer</a> than the partition into connected components.<sup id=""cite_ref-ss29_11-4"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup> The set of path-connected components of a space <i>X</i> is denoted <a href=""https://en.wikipedia.org/wiki/Homotopy_groups"" class=""mw-redirect"" title=""Homotopy groups"">π<sub>0</sub>(<i>X</i>)</a>.</dd></dl>
-<dl><dt>Perfectly normal</dt>
-<dd>a normal space which is also a G<sub>δ</sub>.<sup id=""cite_ref-ss162_6-5"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>
-<dl><dt>π-base</dt>
-<dd>A collection <i>B</i> of nonempty open sets is a π-base for a topology τ if every nonempty open set in τ includes a set from <i>B</i>.<sup id=""cite_ref-17"" class=""reference""><a href=""#cite_note-17"">&#91;17&#93;</a></sup></dd></dl>
-<dl><dt>Point</dt>
-<dd>A point is an element of a topological space. More generally, a point is an element of any set with an underlying topological structure; e.g. an element of a metric space or a topological group is also a ""point"".</dd></dl>
-<dl><dt>Point of closure</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">Closure</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Polish_space"" title=""Polish space"">Polish</a></dt>
-<dd>A space is Polish if it is separable and completely metrizable, i.e. if it is homeomorphic to a separable and complete metric space.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Polyadic_space"" title=""Polyadic space"">Polyadic</a></dt>
-<dd>A space is polyadic if it is the continuous image of the power of a <a href=""https://en.wikipedia.org/wiki/One-point_compactification"" class=""mw-redirect"" title=""One-point compactification"">one-point compactification</a> of a locally compact, non-compact Hausdorff space.</dd></dl>
-<dl><dt>P-point</dt>
-<dd>A point of a topological space is a P-point if its filter of neighbourhoods is closed under countable intersections.</dd></dl>
-<dl><dt>Pre-compact</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Relatively_compact"" class=""mw-redirect"" title=""Relatively compact"">Relatively compact</a></b>.</dd></dl>
-<dl><dt>Prodiscrete topology</dt>
-<dd>The prodiscrete topology on a product <i>A</i><sup><i>G</i></sup> is the product topology when each factor <i>A</i> is given the discrete topology.<sup id=""cite_ref-18"" class=""reference""><a href=""#cite_note-18"">&#91;18&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Product_topology"" title=""Product topology"">Product topology</a></dt>
-<dd>If {<i>X</i><sub><i>i</i></sub>} is a collection of spaces and <i>X</i> is the (set-theoretic) <a href=""https://en.wikipedia.org/wiki/Cartesian_product"" title=""Cartesian product"">product</a> of {<i>X</i><sub><i>i</i></sub>}, then the <a href=""https://en.wikipedia.org/wiki/Product_topology"" title=""Product topology"">product topology</a> on <i>X</i> is the coarsest topology for which all the projection maps are continuous.</dd></dl>
-<dl><dt>Proper function/mapping</dt>
-<dd>A continuous function <i>f</i> from a space <i>X</i> to a space <i>Y</i> is proper if <i>f</i><sup>−1</sup>(<i>C</i>) is a compact set in <i>X</i> for any compact subspace <i>C</i> of <i>Y</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Proximity_space"" title=""Proximity space"">Proximity space</a></dt>
+<dd>A property of points in a <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is said to be ""open"" if those points which possess it form an <a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">open set</a>.  Such conditions often take a common form, and that form can be said to be an <i>open condition</i>; for example, in <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric spaces</a>, one defines an open ball as above, and says that ""strict inequality is an open condition"".</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Paracompact_space"" title=""Paracompact space"">Paracompact</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Paracompact_space"" title=""Paracompact space"">paracompact</a> if every open cover has a locally finite open refinement.  Paracompact implies metacompact.<sup id=""cite_ref-ss23_15-0"" class=""reference""><a href=""#cite_note-ss23-15"">&#91;15&#93;</a></sup>  Paracompact Hausdorff spaces are normal.<sup id=""cite_ref-ss25_16-0"" class=""reference""><a href=""#cite_note-ss25-16"">&#91;16&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Partition_of_unity"" title=""Partition of unity"">Partition of unity</a></dt>"¬"
+<dd>A partition of unity of a space <i>X</i> is a set of continuous functions from <i>X</i> to [0, 1] such that any point has a neighbourhood where all but a <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> number of the functions are identically zero, and the sum of all the functions on the entire space is identically 1.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Path_(topology)"" title=""Path (topology)"">Path</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Path_(topology)"" title=""Path (topology)"">path</a> in a space <i>X</i> is a continuous map <i>f</i> from the closed unit <a href=""https://en.wikipedia.org/wiki/Interval_(mathematics)"" title=""Interval (mathematics)"">interval</a> [0, 1] into <i>X</i>. The point <i>f</i>(0) is the initial point of <i>f</i>; the point <i>f</i>(1) is the terminal point of <i>f</i>.<sup id=""cite_ref-ss29_11-2"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Path-connected_space"" class=""mw-redirect"" title=""Path-connected space"">Path-connected</a></dt>"¬"
+<dd>A space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Path-connected_space"" class=""mw-redirect"" title=""Path-connected space"">path-connected</a> if, for every two points <i>x</i>, <i>y</i> in <i>X</i>, there is a path <i>f</i> from <i>x</i> to <i>y</i>, i.e., a path with initial point <i>f</i>(0) = <i>x</i> and terminal point <i>f</i>(1) = <i>y</i>. Every path-connected space is connected.<sup id=""cite_ref-ss29_11-3"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup></dd></dl>"
+"<dl><dt>Path-connected component</dt>"¬"
+<dd>A path-connected component of a space is a maximal nonempty path-connected subspace. The set of path-connected components of a space is a <a href=""https://en.wikipedia.org/wiki/Partition_of_a_set"" title=""Partition of a set"">partition</a> of that space, which is <a href=""https://en.wikipedia.org/wiki/Partition_of_a_set"" title=""Partition of a set"">finer</a> than the partition into connected components.<sup id=""cite_ref-ss29_11-4"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup> The set of path-connected components of a space <i>X</i> is denoted <a href=""https://en.wikipedia.org/wiki/Homotopy_groups"" class=""mw-redirect"" title=""Homotopy groups"">π<sub>0</sub>(<i>X</i>)</a>.</dd></dl>"
+"<dl><dt>Perfectly normal</dt>"¬"
+<dd>a normal space which is also a G<sub>δ</sub>.<sup id=""cite_ref-ss162_6-5"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>"
+"<dl><dt>π-base</dt>"¬"
+<dd>A collection <i>B</i> of nonempty open sets is a π-base for a topology τ if every nonempty open set in τ includes a set from <i>B</i>.<sup id=""cite_ref-17"" class=""reference""><a href=""#cite_note-17"">&#91;17&#93;</a></sup></dd></dl>"
+"<dl><dt>Point</dt>"¬"
+<dd>A point is an element of a topological space. More generally, a point is an element of any set with an underlying topological structure; e.g. an element of a metric space or a topological group is also a ""point"".</dd></dl>"
+"<dl><dt>Point of closure</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">Closure</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Polish_space"" title=""Polish space"">Polish</a></dt>"¬"
+<dd>A space is Polish if it is separable and completely metrizable, i.e. if it is homeomorphic to a separable and complete metric space.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Polyadic_space"" title=""Polyadic space"">Polyadic</a></dt>"¬"
+<dd>A space is polyadic if it is the continuous image of the power of a <a href=""https://en.wikipedia.org/wiki/One-point_compactification"" class=""mw-redirect"" title=""One-point compactification"">one-point compactification</a> of a locally compact, non-compact Hausdorff space.</dd></dl>"
+"<dl><dt>P-point</dt>"¬"
+<dd>A point of a topological space is a P-point if its filter of neighbourhoods is closed under countable intersections.</dd></dl>"
+"<dl><dt>Pre-compact</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Relatively_compact"" class=""mw-redirect"" title=""Relatively compact"">Relatively compact</a></b>.</dd></dl>"
+"<dl><dt>Prodiscrete topology</dt>"¬"
+<dd>The prodiscrete topology on a product <i>A</i><sup><i>G</i></sup> is the product topology when each factor <i>A</i> is given the discrete topology.<sup id=""cite_ref-18"" class=""reference""><a href=""#cite_note-18"">&#91;18&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Product_topology"" title=""Product topology"">Product topology</a></dt>"¬"
+<dd>If {<i>X</i><sub><i>i</i></sub>} is a collection of spaces and <i>X</i> is the (set-theoretic) <a href=""https://en.wikipedia.org/wiki/Cartesian_product"" title=""Cartesian product"">product</a> of {<i>X</i><sub><i>i</i></sub>}, then the <a href=""https://en.wikipedia.org/wiki/Product_topology"" title=""Product topology"">product topology</a> on <i>X</i> is the coarsest topology for which all the projection maps are continuous.</dd></dl>"
+"<dl><dt>Proper function/mapping</dt>"¬"
+<dd>A continuous function <i>f</i> from a space <i>X</i> to a space <i>Y</i> is proper if <i>f</i><sup>−1</sup>(<i>C</i>) is a compact set in <i>X</i> for any compact subspace <i>C</i> of <i>Y</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Proximity_space"" title=""Proximity space"">Proximity space</a></dt>"¬"
 <dd>A proximity space (<i>X</i>,&#160;<b>δ</b>) is a set <i>X</i> equipped with a <a href=""https://en.wikipedia.org/wiki/Binary_relation"" title=""Binary relation"">binary relation</a> <b>δ</b> between subsets of <i>X</i> satisfying the following properties:</dd></dl>
 <dl><dd>For all subsets <i>A</i>, <i>B</i> and <i>C</i> of <i>X</i>,
 <ol><li><i>A</i> <b>δ</b> <i>B</i> implies <i>B</i> <b>δ</b> <i>A</i></li>
 <li><i>A</i> <b>δ</b> <i>B</i> implies <i>A</i> is non-empty</li>
 <li>If <i>A</i> and <i>B</i> have non-empty intersection, then <i>A</i> <b>δ</b> <i>B</i></li>
 <li><i>A</i> <b>δ</b> (<i>B</i>&#160;∪&#160;<i>C</i>) <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> (<i>A</i> <b>δ</b> <i>B</i> or <i>A</i> <b>δ</b> <i>C</i>)</li>
-<li>If, for all subsets <i>E</i> of <i>X</i>, we have (<i>A</i> <b>δ</b> <i>E</i> or <i>B</i> <b>δ</b> <i>E</i>), then we must have <i>A</i> <b>δ</b> (<i>X</i> − <i>B</i>)</li></ol></dd></dl>
-<dl><dt>Pseudocompact</dt>
-<dd>A space is pseudocompact if every <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real-valued</a> continuous function on the space is bounded.</dd></dl>
-<dl><dt>Pseudometric</dt>
-<dd>See <b>Pseudometric space</b>.</dd></dl>
-<dl><dt>Pseudometric space</dt>
-<dd>A pseudometric space (<i>M</i>, <i>d</i>) is a set <i>M</i> equipped with a function <i>d</i>&#160;:&#160;<i>M</i>&#160;×&#160;<i>M</i>&#160;→&#160;<b><a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">R</a></b> satisfying all the conditions of a metric space, except possibly the identity of indiscernibles. That is, points in a pseudometric space may be ""infinitely close"" without being identical.  The function <i>d</i> is a <b>pseudometric</b> on <i>M</i>. Every metric is a pseudometric.</dd></dl>
-<dl><dt>Punctured neighbourhood<b>/</b>Punctured neighborhood</dt>
-<dd>A punctured neighbourhood of a point <i>x</i> is a neighbourhood of <i>x</i>, minus {<i>x</i>}. For instance, the <a href=""https://en.wikipedia.org/wiki/Interval_(mathematics)"" title=""Interval (mathematics)"">interval</a> (−1, 1) = {<i>y</i>&#160;: −1 &lt; <i>y</i> &lt; 1} is a neighbourhood of <i>x</i> = 0 in the <a href=""https://en.wikipedia.org/wiki/Real_line"" title=""Real line"">real line</a>, so the set (−1, 0) ∪ (0, 1) = (−1, 1) − {0} is a punctured neighbourhood of 0.</dd></dl>
-<dl><dt>Quasicompact</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Compact_space"" title=""Compact space"">compact</a></b>. Some authors define ""compact"" to include the <a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff</a> separation axiom, and they use the term <b>quasicompact</b> to mean what we call in this glossary simply ""compact"" (without the Hausdorff axiom). This convention is most commonly found in French, and branches of mathematics heavily influenced by the French.</dd></dl>
-<dl><dt>Quotient map</dt>
+<li>If, for all subsets <i>E</i> of <i>X</i>, we have (<i>A</i> <b>δ</b> <i>E</i> or <i>B</i> <b>δ</b> <i>E</i>), then we must have <i>A</i> <b>δ</b> (<i>X</i> − <i>B</i>)</li></ol></dd></dl>"
+"<dl><dt>Pseudocompact</dt>"¬"
+<dd>A space is pseudocompact if every <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real-valued</a> continuous function on the space is bounded.</dd></dl>"
+"<dl><dt>Pseudometric</dt>"¬"
+<dd>See <b>Pseudometric space</b>.</dd></dl>"
+"<dl><dt>Pseudometric space</dt>"¬"
+<dd>A pseudometric space (<i>M</i>, <i>d</i>) is a set <i>M</i> equipped with a function <i>d</i>&#160;:&#160;<i>M</i>&#160;×&#160;<i>M</i>&#160;→&#160;<b><a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">R</a></b> satisfying all the conditions of a metric space, except possibly the identity of indiscernibles. That is, points in a pseudometric space may be ""infinitely close"" without being identical.  The function <i>d</i> is a <b>pseudometric</b> on <i>M</i>. Every metric is a pseudometric.</dd></dl>"
+"<dl><dt>Punctured neighbourhood<b>/</b>Punctured neighborhood</dt>"¬"
+<dd>A punctured neighbourhood of a point <i>x</i> is a neighbourhood of <i>x</i>, minus {<i>x</i>}. For instance, the <a href=""https://en.wikipedia.org/wiki/Interval_(mathematics)"" title=""Interval (mathematics)"">interval</a> (−1, 1) = {<i>y</i>&#160;: −1 &lt; <i>y</i> &lt; 1} is a neighbourhood of <i>x</i> = 0 in the <a href=""https://en.wikipedia.org/wiki/Real_line"" title=""Real line"">real line</a>, so the set (−1, 0) ∪ (0, 1) = (−1, 1) − {0} is a punctured neighbourhood of 0.</dd></dl>"
+"<dl><dt>Quasicompact</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Compact_space"" title=""Compact space"">compact</a></b>. Some authors define ""compact"" to include the <a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff</a> separation axiom, and they use the term <b>quasicompact</b> to mean what we call in this glossary simply ""compact"" (without the Hausdorff axiom). This convention is most commonly found in French, and branches of mathematics heavily influenced by the French.</dd></dl>"
+"<dl><dt>Quotient map</dt>"¬"
 <dd>If <i>X</i> and <i>Y</i> are spaces, and if <i>f</i> is a <a href=""https://en.wikipedia.org/wiki/Surjection"" class=""mw-redirect"" title=""Surjection"">surjection</a> from <i>X</i> to <i>Y</i>, then <i>f</i> is a quotient map (or <b>identification map</b>) if, for every subset <i>U</i> of <i>Y</i>, <i>U</i> is open in <i>Y</i> <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> <i>f</i><sup>&#160;<tt>-</tt>1</sup>(<i>U</i>) is open in <i>X</i>.  In other words, <i>Y</i> has the <i>f</i>-strong topology.  Equivalently, <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -569,10 +569,10 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle Z\subset X}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d627682bb9b3e3b2bb291c63f20acbe34eb973f7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:6.759ex; height:2.176ex;"" alt=""Z\subset X""/></span> is a subset. Note that this doesn't imply that <i>f</i> is an open function.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Quotient space</a></dt>
-<dd>If <i>X</i> is a space, <i>Y</i> is a set, and <i>f</i>&#160;:&#160;<i>X</i>&#160;→&#160;<i>Y</i> is any <a href=""https://en.wikipedia.org/wiki/Surjection"" class=""mw-redirect"" title=""Surjection"">surjective</a> function, then the <a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">quotient topology</a> on <i>Y</i> induced by <i>f</i> is the finest topology for which <i>f</i> is continuous. The space <i>X</i> is a quotient space or <b>identification space</b>. By definition, <i>f</i> is a quotient map. The most common example of this is to consider an <a href=""https://en.wikipedia.org/wiki/Equivalence_relation"" title=""Equivalence relation"">equivalence relation</a> on <i>X</i>, with <i>Y</i> the set of <a href=""https://en.wikipedia.org/wiki/Equivalence_class"" title=""Equivalence class"">equivalence classes</a> and <i>f</i> the natural projection map. This construction is dual to the construction of the subspace topology.</dd></dl>
-<dl><dt>Refinement</dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/d627682bb9b3e3b2bb291c63f20acbe34eb973f7"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:6.759ex; height:2.176ex;"" alt=""Z\subset X""/></span> is a subset. Note that this doesn't imply that <i>f</i> is an open function.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Quotient space</a></dt>"¬"
+<dd>If <i>X</i> is a space, <i>Y</i> is a set, and <i>f</i>&#160;:&#160;<i>X</i>&#160;→&#160;<i>Y</i> is any <a href=""https://en.wikipedia.org/wiki/Surjection"" class=""mw-redirect"" title=""Surjection"">surjective</a> function, then the <a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">quotient topology</a> on <i>Y</i> induced by <i>f</i> is the finest topology for which <i>f</i> is continuous. The space <i>X</i> is a quotient space or <b>identification space</b>. By definition, <i>f</i> is a quotient map. The most common example of this is to consider an <a href=""https://en.wikipedia.org/wiki/Equivalence_relation"" title=""Equivalence relation"">equivalence relation</a> on <i>X</i>, with <i>Y</i> the set of <a href=""https://en.wikipedia.org/wiki/Equivalence_class"" title=""Equivalence class"">equivalence classes</a> and <i>f</i> the natural projection map. This construction is dual to the construction of the subspace topology.</dd></dl>"
+"<dl><dt>Refinement</dt>"¬"
 <dd>A cover <i>K</i> is a <a href=""https://en.wikipedia.org/wiki/Refinement_(topology)"" class=""mw-redirect"" title=""Refinement (topology)"">refinement</a> of a cover <i>L</i> if every member of <i>K</i> is a subset of some member of <i>L</i>.</dd>
 <dt><a href=""https://en.wikipedia.org/wiki/Regular_space"" title=""Regular space"">Regular</a></dt>
 <dd>A space is <a href=""https://en.wikipedia.org/wiki/Regular_space"" title=""Regular space"">regular</a> if, whenever <i>C</i> is a closed set and <i>x</i> is a point not in <i>C</i>, then <i>C</i> and <i>x</i> have <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> neighbourhoods.</dd>
@@ -587,38 +587,38 @@
 <dt>Resolvable</dt>
 <dd>A <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is called <a href=""https://en.wikipedia.org/wiki/Resolvable_space"" title=""Resolvable space"">resolvable</a> if it is expressible as the union of two <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> <a href=""https://en.wikipedia.org/wiki/Dense_subset"" class=""mw-redirect"" title=""Dense subset"">dense subsets</a>.</dd>
 <dt>Rim-compact</dt>
-<dd>A space is rim-compact if it has a base of open sets whose boundaries are compact.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/S_and_L_spaces"" title=""S and L spaces"">S-space</a></dt>
-<dd>An <i>S-space</i> is a <a href=""https://en.wikipedia.org/wiki/Hereditary_property#In_topology"" title=""Hereditary property"">hereditarily</a> <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable</a> space which is not hereditarily <a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a>.<sup id=""cite_ref-GKW290_12-1"" class=""reference""><a href=""#cite_note-GKW290-12"">&#91;12&#93;</a></sup></dd></dl>
-<dl><dt>Scattered</dt>
-<dd>A space <i>X</i> is scattered if every nonempty subset <i>A</i> of <i>X</i> contains a point isolated in <i>A</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Scott_continuity"" title=""Scott continuity"">Scott</a></dt>
-<dd>The <a href=""https://en.wikipedia.org/wiki/Scott_topology"" class=""mw-redirect"" title=""Scott topology"">Scott topology</a> on a <a href=""https://en.wikipedia.org/wiki/Poset"" class=""mw-redirect"" title=""Poset"">poset</a> is that in which the open sets are those <a href=""https://en.wikipedia.org/wiki/Upper_set"" title=""Upper set"">Upper sets</a> inaccessible by directed joins.<sup id=""cite_ref-20"" class=""reference""><a href=""#cite_note-20"">&#91;20&#93;</a></sup></dd></dl>
-<dl><dt>Second category</dt>
-<dd>See <b>Meagre</b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Second-countable_space"" title=""Second-countable space"">Second-countable</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Second-countable_space"" title=""Second-countable space"">second-countable</a> or <b>perfectly separable</b> if it has a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> base for its topology.<sup id=""cite_ref-ss162_6-6"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup> Every second-countable space is first-countable, separable, and Lindelöf.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Semilocally_simply_connected"" class=""mw-redirect"" title=""Semilocally simply connected"">Semilocally simply connected</a></dt>
-<dd>A space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Semilocally_simply_connected"" class=""mw-redirect"" title=""Semilocally simply connected"">semilocally simply connected</a> if, for every point <i>x</i> in <i>X</i>, there is a neighbourhood <i>U</i> of <i>x</i> such that every loop at <i>x</i> in <i>U</i> is homotopic in <i>X</i> to the constant loop <i>x</i>. Every simply connected space and every locally simply connected space is semilocally simply connected. (Compare with locally simply connected; here, the homotopy is allowed to live in <i>X</i>, whereas in the definition of locally simply connected, the homotopy must live in <i>U</i>.)</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Semiregular_space"" title=""Semiregular space"">Semiregular</a></dt>
-<dd>A space is semiregular if the regular open sets form a base.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Separable_(topology)"" class=""mw-redirect"" title=""Separable (topology)"">Separable</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Separable_(topology)"" class=""mw-redirect"" title=""Separable (topology)"">separable</a> if it has a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> dense subset.<sup id=""cite_ref-ss162_6-7"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup><sup id=""cite_ref-ss7_14-1"" class=""reference""><a href=""#cite_note-ss7-14"">&#91;14&#93;</a></sup></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Separated_sets"" title=""Separated sets"">Separated</a></dt>
-<dd>Two sets <i>A</i> and <i>B</i> are <a href=""https://en.wikipedia.org/wiki/Separated_sets"" title=""Separated sets"">separated</a> if each is <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> from the other's closure.</dd></dl>
-<dl><dt>Sequentially compact</dt>
-<dd>A space is sequentially compact if every <a href=""https://en.wikipedia.org/wiki/Sequence"" title=""Sequence"">sequence</a> has a convergent subsequence. Every sequentially compact space is countably compact, and every first-countable, countably compact space is sequentially compact.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Short_map"" class=""mw-redirect"" title=""Short map"">Short map</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">metric map</a></b></dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Simply_connected_space"" title=""Simply connected space"">Simply connected</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Simply_connected_space"" title=""Simply connected space"">simply connected</a> if it is path-connected and every loop is homotopic to a constant map.</dd></dl>
-<dl><dt>Smaller topology</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">Coarser topology</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Sober_space"" title=""Sober space"">Sober</a></dt>
-<dd>In a <a href=""https://en.wikipedia.org/wiki/Sober_space"" title=""Sober space"">sober space</a>, every <a href=""https://en.wikipedia.org/wiki/Hyperconnected_space"" title=""Hyperconnected space"">irreducible</a> closed subset is the <a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">closure</a> of exactly one point: that is, has a unique <a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">generic point</a>.<sup id=""cite_ref-21"" class=""reference""><a href=""#cite_note-21"">&#91;21&#93;</a></sup></dd></dl>
-<dl><dt>Star</dt>
-<dd>The star of a point in a given <a href=""https://en.wikipedia.org/wiki/Cover_(topology)"" title=""Cover (topology)"">cover</a> of a <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is the union of all the sets in the cover that contain the point. See <b><a href=""https://en.wikipedia.org/wiki/Star_refinement"" title=""Star refinement"">star refinement</a></b>.</dd></dl>
-<dl><dt><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f}"">
+<dd>A space is rim-compact if it has a base of open sets whose boundaries are compact.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/S_and_L_spaces"" title=""S and L spaces"">S-space</a></dt>"¬"
+<dd>An <i>S-space</i> is a <a href=""https://en.wikipedia.org/wiki/Hereditary_property#In_topology"" title=""Hereditary property"">hereditarily</a> <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable</a> space which is not hereditarily <a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a>.<sup id=""cite_ref-GKW290_12-1"" class=""reference""><a href=""#cite_note-GKW290-12"">&#91;12&#93;</a></sup></dd></dl>"
+"<dl><dt>Scattered</dt>"¬"
+<dd>A space <i>X</i> is scattered if every nonempty subset <i>A</i> of <i>X</i> contains a point isolated in <i>A</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Scott_continuity"" title=""Scott continuity"">Scott</a></dt>"¬"
+<dd>The <a href=""https://en.wikipedia.org/wiki/Scott_topology"" class=""mw-redirect"" title=""Scott topology"">Scott topology</a> on a <a href=""https://en.wikipedia.org/wiki/Poset"" class=""mw-redirect"" title=""Poset"">poset</a> is that in which the open sets are those <a href=""https://en.wikipedia.org/wiki/Upper_set"" title=""Upper set"">Upper sets</a> inaccessible by directed joins.<sup id=""cite_ref-20"" class=""reference""><a href=""#cite_note-20"">&#91;20&#93;</a></sup></dd></dl>"
+"<dl><dt>Second category</dt>"¬"
+<dd>See <b>Meagre</b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Second-countable_space"" title=""Second-countable space"">Second-countable</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Second-countable_space"" title=""Second-countable space"">second-countable</a> or <b>perfectly separable</b> if it has a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> base for its topology.<sup id=""cite_ref-ss162_6-6"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup> Every second-countable space is first-countable, separable, and Lindelöf.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Semilocally_simply_connected"" class=""mw-redirect"" title=""Semilocally simply connected"">Semilocally simply connected</a></dt>"¬"
+<dd>A space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Semilocally_simply_connected"" class=""mw-redirect"" title=""Semilocally simply connected"">semilocally simply connected</a> if, for every point <i>x</i> in <i>X</i>, there is a neighbourhood <i>U</i> of <i>x</i> such that every loop at <i>x</i> in <i>U</i> is homotopic in <i>X</i> to the constant loop <i>x</i>. Every simply connected space and every locally simply connected space is semilocally simply connected. (Compare with locally simply connected; here, the homotopy is allowed to live in <i>X</i>, whereas in the definition of locally simply connected, the homotopy must live in <i>U</i>.)</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Semiregular_space"" title=""Semiregular space"">Semiregular</a></dt>"¬"
+<dd>A space is semiregular if the regular open sets form a base.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Separable_(topology)"" class=""mw-redirect"" title=""Separable (topology)"">Separable</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Separable_(topology)"" class=""mw-redirect"" title=""Separable (topology)"">separable</a> if it has a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> dense subset.<sup id=""cite_ref-ss162_6-7"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup><sup id=""cite_ref-ss7_14-1"" class=""reference""><a href=""#cite_note-ss7-14"">&#91;14&#93;</a></sup></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Separated_sets"" title=""Separated sets"">Separated</a></dt>"¬"
+<dd>Two sets <i>A</i> and <i>B</i> are <a href=""https://en.wikipedia.org/wiki/Separated_sets"" title=""Separated sets"">separated</a> if each is <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> from the other's closure.</dd></dl>"
+"<dl><dt>Sequentially compact</dt>"¬"
+<dd>A space is sequentially compact if every <a href=""https://en.wikipedia.org/wiki/Sequence"" title=""Sequence"">sequence</a> has a convergent subsequence. Every sequentially compact space is countably compact, and every first-countable, countably compact space is sequentially compact.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Short_map"" class=""mw-redirect"" title=""Short map"">Short map</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">metric map</a></b></dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Simply_connected_space"" title=""Simply connected space"">Simply connected</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Simply_connected_space"" title=""Simply connected space"">simply connected</a> if it is path-connected and every loop is homotopic to a constant map.</dd></dl>"
+"<dl><dt>Smaller topology</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">Coarser topology</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Sober_space"" title=""Sober space"">Sober</a></dt>"¬"
+<dd>In a <a href=""https://en.wikipedia.org/wiki/Sober_space"" title=""Sober space"">sober space</a>, every <a href=""https://en.wikipedia.org/wiki/Hyperconnected_space"" title=""Hyperconnected space"">irreducible</a> closed subset is the <a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">closure</a> of exactly one point: that is, has a unique <a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">generic point</a>.<sup id=""cite_ref-21"" class=""reference""><a href=""#cite_note-21"">&#91;21&#93;</a></sup></dd></dl>"
+"<dl><dt>Star</dt>"¬"
+<dd>The star of a point in a given <a href=""https://en.wikipedia.org/wiki/Cover_(topology)"" title=""Cover (topology)"">cover</a> of a <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is the union of all the sets in the cover that contain the point. See <b><a href=""https://en.wikipedia.org/wiki/Star_refinement"" title=""Star refinement"">star refinement</a></b>.</dd></dl>"
+"<dl><dt><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f}"">"¬"
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -715,16 +715,16 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle X}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.98ex; height:2.176ex;"" alt=""X""/></span></dd></dl>
-<dl><dt>Stronger topology</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Finer_topology"" class=""mw-redirect"" title=""Finer topology"">Finer topology</a></b>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>weaker topology</b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Subbase"" title=""Subbase"">Subbase</a></dt>
-<dd>A collection of open sets is a <a href=""https://en.wikipedia.org/wiki/Subbase"" title=""Subbase"">subbase</a> (or <b>subbasis</b>) for a topology if every non-empty proper open set in the topology is a union of <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> intersections of sets in the subbase. If <i>B</i> is <i>any</i> collection of subsets of a set <i>X</i>, the topology on <i>X</i> generated by <i>B</i> is the smallest topology containing <i>B</i>; this topology consists of the empty set, <i>X</i> and all unions of finite intersections of elements of <i>B</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Subbase"" title=""Subbase"">Subbasis</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Subbase"" title=""Subbase"">Subbase</a></b>.</dd></dl>
-<dl><dt>Subcover</dt>
-<dd>A cover <i>K</i> is a subcover (or <b>subcovering</b>) of a cover <i>L</i> if every member of <i>K</i> is a member of <i>L</i>.</dd></dl>
-<dl><dt>Subcovering</dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.338ex; width:1.98ex; height:2.176ex;"" alt=""X""/></span></dd></dl>"
+"<dl><dt>Stronger topology</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Finer_topology"" class=""mw-redirect"" title=""Finer topology"">Finer topology</a></b>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>weaker topology</b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Subbase"" title=""Subbase"">Subbase</a></dt>"¬"
+<dd>A collection of open sets is a <a href=""https://en.wikipedia.org/wiki/Subbase"" title=""Subbase"">subbase</a> (or <b>subbasis</b>) for a topology if every non-empty proper open set in the topology is a union of <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> intersections of sets in the subbase. If <i>B</i> is <i>any</i> collection of subsets of a set <i>X</i>, the topology on <i>X</i> generated by <i>B</i> is the smallest topology containing <i>B</i>; this topology consists of the empty set, <i>X</i> and all unions of finite intersections of elements of <i>B</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Subbase"" title=""Subbase"">Subbasis</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Subbase"" title=""Subbase"">Subbase</a></b>.</dd></dl>"
+"<dl><dt>Subcover</dt>"¬"
+<dd>A cover <i>K</i> is a subcover (or <b>subcovering</b>) of a cover <i>L</i> if every member of <i>K</i> is a member of <i>L</i>.</dd></dl>"
+"<dl><dt>Subcovering</dt>"¬"
 <dd>See <b>Subcover</b>.</dd>
 <dt>Submaximal space</dt>
 <dd>A <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is said to be <b>submaximal</b> if every subset of it is locally closed, that is, every subset is the intersection of an <a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">open set</a> and a <a href=""https://en.wikipedia.org/wiki/Closed_set"" title=""Closed set"">closed set</a>.</dd></dl>
@@ -732,66 +732,66 @@
 </p>
 <ul><li>Every <a href=""https://en.wikipedia.org/wiki/Door_space"" title=""Door space"">door space</a> is submaximal.</li>
 <li>Every submaximal space is <i>weakly submaximal</i> viz every finite set is locally closed.</li>
-<li>Every submaximal space is <a href=""https://en.wikipedia.org/wiki/Irresolvable_space"" class=""mw-redirect"" title=""Irresolvable space"">irresolvable</a><sup id=""cite_ref-22"" class=""reference""><a href=""#cite_note-22"">&#91;22&#93;</a></sup></li></ul>
-<dl><dt>Subspace</dt>
-<dd>If <i>T</i> is a topology on a space <i>X</i>, and if <i>A</i> is a subset of <i>X</i>, then the <a href=""https://en.wikipedia.org/wiki/Subspace_topology"" title=""Subspace topology"">subspace topology</a> on <i>A</i> induced by <i>T</i> consists of all intersections of open sets in <i>T</i> with <i>A</i>. This construction is dual to the construction of the quotient topology.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/T0_space"" class=""mw-redirect"" title=""T0 space"">T<sub>0</sub></a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/T0_space"" class=""mw-redirect"" title=""T0 space"">T<sub>0</sub></a> (or <b>Kolmogorov</b>) if for every pair of distinct points <i>x</i> and <i>y</i> in the space, either there is an open set containing <i>x</i> but not <i>y</i>, or there is an open set containing <i>y</i> but not <i>x</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/T1_space"" title=""T1 space"">T<sub>1</sub></a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/T1_space"" title=""T1 space"">T<sub>1</sub></a> (or <b>Fréchet</b> or <b>accessible</b>) if for every pair of distinct points <i>x</i> and <i>y</i> in the space, there is an open set containing <i>x</i> but not <i>y</i>. (Compare with T<sub>0</sub>; here, we are allowed to specify which point will be contained in the open set.) Equivalently, a space is T<sub>1</sub> if all its <a href=""https://en.wikipedia.org/wiki/Singleton_(mathematics)"" title=""Singleton (mathematics)"">singletons</a> are closed. Every T<sub>1</sub> space is T<sub>0</sub>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/T2_space"" class=""mw-redirect"" title=""T2 space"">T<sub>2</sub></a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff space</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/T3_space"" class=""mw-redirect"" title=""T3 space"">T<sub>3</sub></a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/T3_space"" class=""mw-redirect"" title=""T3 space"">Regular Hausdorff</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">T<sub>3½</sub></a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">Tychonoff space</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space"">T<sub>4</sub></a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space"">Normal Hausdorff</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/T5_space"" class=""mw-redirect"" title=""T5 space"">T<sub>5</sub></a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/T5_space"" class=""mw-redirect"" title=""T5 space"">Completely normal Hausdorff</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Top</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Category of topological spaces</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Topological_invariant"" class=""mw-redirect"" title=""Topological invariant"">Topological invariant</a></dt>
-<dd>A topological invariant is a property which is preserved under homeomorphism. For example, compactness and connectedness are topological properties, whereas boundedness and completeness are not. <a href=""https://en.wikipedia.org/wiki/Algebraic_topology"" title=""Algebraic topology"">Algebraic topology</a> is the study of topologically invariant <a href=""https://en.wikipedia.org/wiki/Abstract_algebra"" title=""Abstract algebra"">abstract algebra</a> constructions on topological spaces.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">Topological space</a></dt>
+<li>Every submaximal space is <a href=""https://en.wikipedia.org/wiki/Irresolvable_space"" class=""mw-redirect"" title=""Irresolvable space"">irresolvable</a><sup id=""cite_ref-22"" class=""reference""><a href=""#cite_note-22"">&#91;22&#93;</a></sup></li></ul>"
+"<dl><dt>Subspace</dt>"¬"
+<dd>If <i>T</i> is a topology on a space <i>X</i>, and if <i>A</i> is a subset of <i>X</i>, then the <a href=""https://en.wikipedia.org/wiki/Subspace_topology"" title=""Subspace topology"">subspace topology</a> on <i>A</i> induced by <i>T</i> consists of all intersections of open sets in <i>T</i> with <i>A</i>. This construction is dual to the construction of the quotient topology.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/T0_space"" class=""mw-redirect"" title=""T0 space"">T<sub>0</sub></a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/T0_space"" class=""mw-redirect"" title=""T0 space"">T<sub>0</sub></a> (or <b>Kolmogorov</b>) if for every pair of distinct points <i>x</i> and <i>y</i> in the space, either there is an open set containing <i>x</i> but not <i>y</i>, or there is an open set containing <i>y</i> but not <i>x</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/T1_space"" title=""T1 space"">T<sub>1</sub></a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/T1_space"" title=""T1 space"">T<sub>1</sub></a> (or <b>Fréchet</b> or <b>accessible</b>) if for every pair of distinct points <i>x</i> and <i>y</i> in the space, there is an open set containing <i>x</i> but not <i>y</i>. (Compare with T<sub>0</sub>; here, we are allowed to specify which point will be contained in the open set.) Equivalently, a space is T<sub>1</sub> if all its <a href=""https://en.wikipedia.org/wiki/Singleton_(mathematics)"" title=""Singleton (mathematics)"">singletons</a> are closed. Every T<sub>1</sub> space is T<sub>0</sub>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/T2_space"" class=""mw-redirect"" title=""T2 space"">T<sub>2</sub></a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff space</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/T3_space"" class=""mw-redirect"" title=""T3 space"">T<sub>3</sub></a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/T3_space"" class=""mw-redirect"" title=""T3 space"">Regular Hausdorff</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">T<sub>3½</sub></a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">Tychonoff space</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space"">T<sub>4</sub></a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/T4_space"" class=""mw-redirect"" title=""T4 space"">Normal Hausdorff</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/T5_space"" class=""mw-redirect"" title=""T5 space"">T<sub>5</sub></a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/T5_space"" class=""mw-redirect"" title=""T5 space"">Completely normal Hausdorff</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Top</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Category_of_topological_spaces"" title=""Category of topological spaces"">Category of topological spaces</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Topological_invariant"" class=""mw-redirect"" title=""Topological invariant"">Topological invariant</a></dt>"¬"
+<dd>A topological invariant is a property which is preserved under homeomorphism. For example, compactness and connectedness are topological properties, whereas boundedness and completeness are not. <a href=""https://en.wikipedia.org/wiki/Algebraic_topology"" title=""Algebraic topology"">Algebraic topology</a> is the study of topologically invariant <a href=""https://en.wikipedia.org/wiki/Abstract_algebra"" title=""Abstract algebra"">abstract algebra</a> constructions on topological spaces.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">Topological space</a></dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> (<i>X</i>, <i>T</i>) is a set <i>X</i> equipped with a collection <i>T</i> of subsets of <i>X</i> satisfying the following <a href=""https://en.wikipedia.org/wiki/Axiom"" title=""Axiom"">axioms</a>:</dd></dl>
 <dl><dd><ol><li>The empty set and <i>X</i> are in <i>T</i>.</li>
 <li>The union of any collection of sets in <i>T</i> is also in <i>T</i>.</li>
 <li>The intersection of any pair of sets in <i>T</i> is also in <i>T</i>.</li></ol></dd></dl>
-<dl><dd>The collection <i>T</i> is a <b>topology</b> on <i>X</i>.</dd></dl>
-<dl><dt>Topological sum</dt>
-<dd>See <b>Coproduct topology</b>.</dd></dl>
-<dl><dt>Topologically complete</dt>
-<dd><a href=""https://en.wikipedia.org/wiki/Completely_metrizable_space"" title=""Completely metrizable space"">Completely metrizable spaces</a> (i. e. topological spaces homeomorphic to complete metric spaces) are often called <i>topologically complete</i>; sometimes the term is also used for <a href=""https://en.wikipedia.org/w/index.php?title=%C4%8Cech-complete_space&amp;action=edit&amp;redlink=1"" class=""new"" title=""Čech-complete space (page does not exist)"">Čech-complete spaces</a> or <a href=""https://en.wikipedia.org/wiki/Completely_uniformizable_space"" title=""Completely uniformizable space"">completely uniformizable spaces</a>.</dd></dl>
-<dl><dt>Topology</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">Topological space</a></b>.</dd></dl>
-<dl><dt>Totally bounded</dt>
-<dd>A metric space <i>M</i> is totally bounded if, for every <i>r</i> &gt; 0, there exist a <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> cover of <i>M</i> by open balls of radius <i>r</i>. A metric space is compact if and only if it is complete and totally bounded.</dd></dl>
-<dl><dt>Totally disconnected</dt>
-<dd>A space is totally disconnected if it has no connected subset with more than one point.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Trivial_topology"" title=""Trivial topology"">Trivial topology</a></dt>
-<dd>The <a href=""https://en.wikipedia.org/wiki/Trivial_topology"" title=""Trivial topology"">trivial topology</a> (or <b>indiscrete topology</b>) on a set <i>X</i> consists of precisely the empty set and the entire space <i>X</i>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">Tychonoff</a></dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">Tychonoff space</a> (or <b>completely regular Hausdorff</b> space, <b>completely T<sub>3</sub></b> space, <b>T<sub>3.5</sub></b> space) is a completely regular T<sub>0</sub> space.  (A completely regular space is Hausdorff <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is T<sub>0</sub>, so the terminology is consistent.) Every Tychonoff space is regular Hausdorff.</dd></dl>
-<dl><dt>Ultra-connected</dt>
-<dd>A space is ultra-connected if no two non-empty closed sets are disjoint.<sup id=""cite_ref-ss29_11-5"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup> Every ultra-connected space is path-connected.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Ultrametric_space"" title=""Ultrametric space"">Ultrametric</a></dt>
-<dd>A metric is an ultrametric if it satisfies the following stronger version of the <a href=""https://en.wikipedia.org/wiki/Triangle_inequality"" title=""Triangle inequality"">triangle inequality</a>: for all <i>x</i>, <i>y</i>, <i>z</i> in <i>M</i>, <i>d</i>(<i>x</i>, <i>z</i>) ≤ max(<i>d</i>(<i>x</i>, <i>y</i>), <i>d</i>(<i>y</i>, <i>z</i>)).</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Uniform_isomorphism"" title=""Uniform isomorphism"">Uniform isomorphism</a></dt>
-<dd>If <i>X</i> and <i>Y</i> are <a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">uniform spaces</a>, a uniform isomorphism from <i>X</i> to <i>Y</i> is a bijective function <i>f</i>&#160;: <i>X</i> → <i>Y</i> such that <i>f</i> and <i>f</i><sup>−1</sup> are <a href=""https://en.wikipedia.org/wiki/Uniformly_continuous"" class=""mw-redirect"" title=""Uniformly continuous"">uniformly continuous</a>. The spaces are then said to be uniformly isomorphic and share the same <a href=""https://en.wikipedia.org/wiki/Uniform_properties"" class=""mw-redirect"" title=""Uniform properties"">uniform properties</a>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Uniformizable"" class=""mw-redirect"" title=""Uniformizable"">Uniformizable</a>/Uniformisable</dt>
-<dd>A space is uniformizable if it is homeomorphic to a uniform space.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></dt>
+<dl><dd>The collection <i>T</i> is a <b>topology</b> on <i>X</i>.</dd></dl>"
+"<dl><dt>Topological sum</dt>"¬"
+<dd>See <b>Coproduct topology</b>.</dd></dl>"
+"<dl><dt>Topologically complete</dt>"¬"
+<dd><a href=""https://en.wikipedia.org/wiki/Completely_metrizable_space"" title=""Completely metrizable space"">Completely metrizable spaces</a> (i. e. topological spaces homeomorphic to complete metric spaces) are often called <i>topologically complete</i>; sometimes the term is also used for <a href=""https://en.wikipedia.org/w/index.php?title=%C4%8Cech-complete_space&amp;action=edit&amp;redlink=1"" class=""new"" title=""Čech-complete space (page does not exist)"">Čech-complete spaces</a> or <a href=""https://en.wikipedia.org/wiki/Completely_uniformizable_space"" title=""Completely uniformizable space"">completely uniformizable spaces</a>.</dd></dl>"
+"<dl><dt>Topology</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">Topological space</a></b>.</dd></dl>"
+"<dl><dt>Totally bounded</dt>"¬"
+<dd>A metric space <i>M</i> is totally bounded if, for every <i>r</i> &gt; 0, there exist a <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> cover of <i>M</i> by open balls of radius <i>r</i>. A metric space is compact if and only if it is complete and totally bounded.</dd></dl>"
+"<dl><dt>Totally disconnected</dt>"¬"
+<dd>A space is totally disconnected if it has no connected subset with more than one point.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Trivial_topology"" title=""Trivial topology"">Trivial topology</a></dt>"¬"
+<dd>The <a href=""https://en.wikipedia.org/wiki/Trivial_topology"" title=""Trivial topology"">trivial topology</a> (or <b>indiscrete topology</b>) on a set <i>X</i> consists of precisely the empty set and the entire space <i>X</i>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">Tychonoff</a></dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Tychonoff_space"" title=""Tychonoff space"">Tychonoff space</a> (or <b>completely regular Hausdorff</b> space, <b>completely T<sub>3</sub></b> space, <b>T<sub>3.5</sub></b> space) is a completely regular T<sub>0</sub> space.  (A completely regular space is Hausdorff <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is T<sub>0</sub>, so the terminology is consistent.) Every Tychonoff space is regular Hausdorff.</dd></dl>"
+"<dl><dt>Ultra-connected</dt>"¬"
+<dd>A space is ultra-connected if no two non-empty closed sets are disjoint.<sup id=""cite_ref-ss29_11-5"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup> Every ultra-connected space is path-connected.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Ultrametric_space"" title=""Ultrametric space"">Ultrametric</a></dt>"¬"
+<dd>A metric is an ultrametric if it satisfies the following stronger version of the <a href=""https://en.wikipedia.org/wiki/Triangle_inequality"" title=""Triangle inequality"">triangle inequality</a>: for all <i>x</i>, <i>y</i>, <i>z</i> in <i>M</i>, <i>d</i>(<i>x</i>, <i>z</i>) ≤ max(<i>d</i>(<i>x</i>, <i>y</i>), <i>d</i>(<i>y</i>, <i>z</i>)).</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Uniform_isomorphism"" title=""Uniform isomorphism"">Uniform isomorphism</a></dt>"¬"
+<dd>If <i>X</i> and <i>Y</i> are <a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">uniform spaces</a>, a uniform isomorphism from <i>X</i> to <i>Y</i> is a bijective function <i>f</i>&#160;: <i>X</i> → <i>Y</i> such that <i>f</i> and <i>f</i><sup>−1</sup> are <a href=""https://en.wikipedia.org/wiki/Uniformly_continuous"" class=""mw-redirect"" title=""Uniformly continuous"">uniformly continuous</a>. The spaces are then said to be uniformly isomorphic and share the same <a href=""https://en.wikipedia.org/wiki/Uniform_properties"" class=""mw-redirect"" title=""Uniform properties"">uniform properties</a>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Uniformizable"" class=""mw-redirect"" title=""Uniformizable"">Uniformizable</a>/Uniformisable</dt>"¬"
+<dd>A space is uniformizable if it is homeomorphic to a uniform space.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">uniform space</a> is a set <i>X</i> equipped with a nonempty collection Φ of subsets of the <a href=""https://en.wikipedia.org/wiki/Cartesian_product"" title=""Cartesian product"">Cartesian product</a> <i>X</i> × <i>X</i> satisfying the following <a href=""https://en.wikipedia.org/wiki/Axiom"" title=""Axiom"">axioms</a>:</dd></dl>
 <dl><dd><ol><li>if <i>U</i> is in Φ, then <i>U</i> contains { (<i>x</i>, <i>x</i>) | <i>x</i> in <i>X</i> }.</li>
 <li>if <i>U</i> is in Φ, then { (<i>y</i>, <i>x</i>) | (<i>x</i>, <i>y</i>) in <i>U</i> } is also in Φ</li>
 <li>if <i>U</i> is in Φ and <i>V</i> is a subset of <i>X</i> × <i>X</i> which contains <i>U</i>, then <i>V</i> is in Φ</li>
 <li>if <i>U</i> and <i>V</i> are in Φ, then <i>U</i> ∩ <i>V</i> is in Φ</li>
 <li>if <i>U</i> is in Φ, then there exists <i>V</i> in Φ such that, whenever (<i>x</i>, <i>y</i>) and (<i>y</i>, <i>z</i>) are in <i>V</i>, then (<i>x</i>, <i>z</i>) is in <i>U</i>.</li></ol></dd></dl>
-<dl><dd>The elements of Φ are called <b>entourages</b>, and Φ itself is called a <b>uniform structure</b> on <i>X</i>. The uniform structure induces a topology on <i>X</i> where the basic neighborhoods of <i>x</i> are sets of the form {<i>y</i>&#160;: (<i>x</i>,<i>y</i>)∈<i>U</i>} for <i>U</i>∈Φ.</dd></dl>
-<dl><dt>Uniform structure</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></b>.</dd></dl>
-<dl><dt><a href=""https://en.wikipedia.org/wiki/Weak_topology"" title=""Weak topology"">Weak topology</a></dt>
+<dl><dd>The elements of Φ are called <b>entourages</b>, and Φ itself is called a <b>uniform structure</b> on <i>X</i>. The uniform structure induces a topology on <i>X</i> where the basic neighborhoods of <i>x</i> are sets of the form {<i>y</i>&#160;: (<i>x</i>,<i>y</i>)∈<i>U</i>} for <i>U</i>∈Φ.</dd></dl>"
+"<dl><dt>Uniform structure</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></b>.</dd></dl>"
+"<dl><dt><a href=""https://en.wikipedia.org/wiki/Weak_topology"" title=""Weak topology"">Weak topology</a></dt>"¬"
 <dd>The <a href=""https://en.wikipedia.org/wiki/Weak_topology"" title=""Weak topology"">weak topology</a> on a set, with respect to a collection of functions from that set into topological spaces, is the coarsest topology on the set which makes all the functions continuous.</dd>
 <dt>Weaker topology</dt>
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">Coarser topology</a></b>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>stronger topology</b>.</dd>
@@ -802,6 +802,6 @@
 <dt>Weight</dt>
 <dd>The <a href=""https://en.wikipedia.org/wiki/Weight_of_a_space"" class=""mw-redirect"" title=""Weight of a space"">weight of a space</a> <i>X</i> is the smallest <a href=""https://en.wikipedia.org/wiki/Cardinal_number"" title=""Cardinal number"">cardinal number</a> κ such that <i>X</i> has a base of cardinal κ. (Note that such a cardinal number exists, because the entire topology forms a base, and because the class of cardinal numbers is <a href=""https://en.wikipedia.org/wiki/Well_order"" class=""mw-redirect"" title=""Well order"">well-ordered</a>.)</dd>
 <dt>Well-connected</dt>
-<dd>See <b>Ultra-connected</b>. (Some authors use this term strictly for ultra-connected compact spaces.)</dd></dl>
-<dl><dt>Zero-dimensional</dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Zero-dimensional"" class=""mw-redirect"" title=""Zero-dimensional"">zero-dimensional</a> if it has a base of clopen sets.<sup id=""cite_ref-ss33_23-0"" class=""reference""><a href=""#cite_note-ss33-23"">&#91;23&#93;</a></sup></dd></dl>
+<dd>See <b>Ultra-connected</b>. (Some authors use this term strictly for ultra-connected compact spaces.)</dd></dl>"
+"<dl><dt>Zero-dimensional</dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Zero-dimensional"" class=""mw-redirect"" title=""Zero-dimensional"">zero-dimensional</a> if it has a base of clopen sets.<sup id=""cite_ref-ss33_23-0"" class=""reference""><a href=""#cite_note-ss33-23"">&#91;23&#93;</a></sup></dd></dl>"
