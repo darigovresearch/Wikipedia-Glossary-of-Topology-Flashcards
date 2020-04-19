@@ -26,8 +26,12 @@
 <dd>An <a href=""https://en.wikipedia.org/wiki/Approach_space"" title=""Approach space"">approach space</a> is a generalization of metric space based on point-to-set distances, instead of point-to-point.</dd></dl>"
 "<dl><dt>Baire space</dt>"¬"
 <dd>This has two distinct common meanings:
-<ol><li>A space is a <b>Baire space</b> if the intersection of any <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> collection of dense open sets is dense; see <a href=""https://en.wikipedia.org/wiki/Baire_space"" title=""Baire space"">Baire space</a>.</li>
-<li><b>Baire space</b> is the set of all functions from the natural numbers to the natural numbers, with the topology of pointwise convergence; see <a href=""https://en.wikipedia.org/wiki/Baire_space_(set_theory)"" title=""Baire space (set theory)"">Baire space (set theory)</a>.</li></ol></dd></dl>"
+<ol align=""left"">
+<li>A space is a <b>Baire space</b> if the intersection of any <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> collection of dense open sets is dense; see <a href=""https://en.wikipedia.org/wiki/Baire_space"" title=""Baire space"">Baire space</a>.</li>
+<li><b>Baire space</b> is the set of all functions from the natural numbers to the natural numbers, with the topology of pointwise convergence; see <a href=""https://en.wikipedia.org/wiki/Baire_space_(set_theory)"" title=""Baire space (set theory)"">Baire space (set theory)</a>.</li>
+</ol>
+</dd>
+</dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Base_(topology)"" title=""Base (topology)"">Base</a></dt>"¬"
 <dd>A collection <i>B</i> of open sets is a <a href=""https://en.wikipedia.org/wiki/Base_(topology)"" title=""Base (topology)"">base</a> (or <b>basis</b>) for a topology <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle \tau }"">
   <semantics>
@@ -289,9 +293,13 @@
 <dd>An <a href=""https://en.wikipedia.org/wiki/F-sigma_set"" class=""mw-redirect"" title=""F-sigma set""><i>F</i><sub>σ</sub> set</a> is a <a href=""https://en.wikipedia.org/wiki/Countable"" class=""mw-redirect"" title=""Countable"">countable</a> union of closed sets.<sup id=""cite_ref-ss162_6-0"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Filter_(mathematics)"" title=""Filter (mathematics)"">Filter</a></dt>"¬"
 <dd>A filter on a space <i>X</i> is a nonempty family <i>F</i> of subsets of <i>X</i> such that the following conditions hold:
-<ol><li>The <a href=""https://en.wikipedia.org/wiki/Empty_set"" title=""Empty set"">empty set</a> is not in <i>F</i>.</li>
+<ol align=""left"">
+<li>The <a href=""https://en.wikipedia.org/wiki/Empty_set"" title=""Empty set"">empty set</a> is not in <i>F</i>.</li>
 <li>The intersection of any <a href=""https://en.wikipedia.org/wiki/Finite_set"" title=""Finite set"">finite</a> number of elements of <i>F</i> is again in <i>F</i>.</li>
-<li>If <i>A</i> is in <i>F</i> and if <i>B</i> contains <i>A</i>, then <i>B</i> is in <i>F</i>.</li></ol></dd></dl>"
+<li>If <i>A</i> is in <i>F</i> and if <i>B</i> contains <i>A</i>, then <i>B</i> is in <i>F</i>.</li>
+</ol>
+</dd>
+</dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Final_topology"" title=""Final topology"">Final topology</a></dt>"¬"
 <dd>On a set <i>X</i> with respect to a family of functions into <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle X}"">
   <semantics>
@@ -385,7 +393,8 @@
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/T0_space"" class=""mw-redirect"" title=""T0 space"">T<sub>0</sub></a></b>.</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Kuratowski_closure_axioms"" title=""Kuratowski closure axioms"">Kuratowski closure axioms</a></dt>"¬"
 <dd>The <a href=""https://en.wikipedia.org/wiki/Kuratowski_closure_axioms"" title=""Kuratowski closure axioms"">Kuratowski closure axioms</a> is a set of <a href=""https://en.wikipedia.org/wiki/Axiom"" title=""Axiom"">axioms</a> satisfied by the function which takes each subset of <i>X</i> to its closure:
-<ol><li><i><a href=""https://en.wikipedia.org/wiki/Isotone_function"" class=""mw-redirect"" title=""Isotone function"">Isotonicity</a></i>: Every set is contained in its closure.</li>
+<ol align=""left"">
+<li><i><a href=""https://en.wikipedia.org/wiki/Isotone_function"" class=""mw-redirect"" title=""Isotone function"">Isotonicity</a></i>: Every set is contained in its closure.</li>
 <li><i><a href=""https://en.wikipedia.org/wiki/Idempotent_function"" class=""mw-redirect"" title=""Idempotent function"">Idempotence</a></i>: The closure of the closure of a set is equal to the closure of that set.</li>
 <li><i>Preservation of binary unions</i>: The closure of the union of two sets is the union of their closures.</li>
 <li><i>Preservation of nullary unions</i>: The closure of the empty set is empty.</li></ol></dd>
@@ -445,11 +454,15 @@
 <dd>If <i>X</i> and <i>Y</i> are metric spaces with metrics <i>d</i><sub><i>X</i></sub> and <i>d</i><sub><i>Y</i></sub> respectively, then a <a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">metric map</a> is a function <i>f</i> from <i>X</i> to <i>Y</i>, such that for any points <i>x</i> and <i>y</i> in <i>X</i>, <i>d</i><sub><i>Y</i></sub>(<i>f</i>(<i>x</i>), <i>f</i>(<i>y</i>)) ≤ <i>d</i><sub><i>X</i></sub>(<i>x</i>, <i>y</i>). A metric map is <a href=""https://en.wikipedia.org/wiki/Metric_map"" title=""Metric map"">strictly metric</a> if the above inequality is strict for all <i>x</i> and <i>y</i> in <i>X</i>.</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">Metric space</a></dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric space</a> (<i>M</i>, <i>d</i>) is a set <i>M</i> equipped with a function <i>d</i>&#160;:&#160;<i>M</i>&#160;×&#160;<i>M</i>&#160;→&#160;<b><a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">R</a></b> satisfying the following axioms for all <i>x</i>, <i>y</i>, and <i>z</i> in <i>M</i>:
-<ol><li><i>d</i>(<i>x</i>, <i>y</i>) ≥ 0</li>
+<ol align=""left"">
+<li><i>d</i>(<i>x</i>, <i>y</i>) ≥ 0</li>
 <li><i>d</i>(<i>x</i>, <i>x</i>) = 0</li>
 <li>if &#160; <i>d</i>(<i>x</i>, <i>y</i>) = 0 &#160; then &#160; <i>x</i> = <i>y</i> &#160;&#160;&#160; (<i>identity of indiscernibles</i>)</li>
 <li><i>d</i>(<i>x</i>, <i>y</i>) = <i>d</i>(<i>y</i>, <i>x</i>)  &#160;&#160;&#160; (<i>symmetry</i>)</li>
-<li><i>d</i>(<i>x</i>, <i>z</i>) ≤ <i>d</i>(<i>x</i>, <i>y</i>) + <i>d</i>(<i>y</i>, <i>z</i>) &#160;&#160;&#160;  (<i><a href=""https://en.wikipedia.org/wiki/Triangle_inequality"" title=""Triangle inequality"">triangle inequality</a></i>)</li></ol></dd></dl>
+<li><i>d</i>(<i>x</i>, <i>z</i>) ≤ <i>d</i>(<i>x</i>, <i>y</i>) + <i>d</i>(<i>y</i>, <i>z</i>) &#160;&#160;&#160;  (<i><a href=""https://en.wikipedia.org/wiki/Triangle_inequality"" title=""Triangle inequality"">triangle inequality</a></i>)</li>
+</ol>
+</dd>
+</dl>
 <dl><dd>The function <i>d</i> is a <b>metric</b> on <i>M</i>, and <i>d</i>(<i>x</i>, <i>y</i>) is the <b>distance</b> between <i>x</i> and <i>y</i>. The collection of all open balls of <i>M</i> is a base for a topology on <i>M</i>; this is the topology on <i>M</i> induced by <i>d</i>. Every metric space is Hausdorff and paracompact (and hence normal and Tychonoff). Every metric space is first-countable.</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Metrizable"" class=""mw-redirect"" title=""Metrizable"">Metrizable</a><b>/</b>Metrisable</dt>"¬"
 <dd>A space is <a href=""https://en.wikipedia.org/wiki/Metrizable"" class=""mw-redirect"" title=""Metrizable"">metrizable</a> if it is homeomorphic to a metric space. Every metrizable space is Hausdorff and paracompact (and hence normal and Tychonoff). Every metrizable space is first-countable.</dd></dl>"
@@ -518,11 +531,15 @@
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Proximity_space"" title=""Proximity space"">Proximity space</a></dt>"¬"
 <dd>A proximity space (<i>X</i>,&#160;<b>δ</b>) is a set <i>X</i> equipped with a <a href=""https://en.wikipedia.org/wiki/Binary_relation"" title=""Binary relation"">binary relation</a> <b>δ</b> between subsets of <i>X</i> satisfying the following properties:</dd></dl>
 <dl><dd>For all subsets <i>A</i>, <i>B</i> and <i>C</i> of <i>X</i>,
-<ol><li><i>A</i> <b>δ</b> <i>B</i> implies <i>B</i> <b>δ</b> <i>A</i></li>
+<ol align=""left"">
+<li><i>A</i> <b>δ</b> <i>B</i> implies <i>B</i> <b>δ</b> <i>A</i></li>
 <li><i>A</i> <b>δ</b> <i>B</i> implies <i>A</i> is non-empty</li>
 <li>If <i>A</i> and <i>B</i> have non-empty intersection, then <i>A</i> <b>δ</b> <i>B</i></li>
 <li><i>A</i> <b>δ</b> (<i>B</i>&#160;∪&#160;<i>C</i>) <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> (<i>A</i> <b>δ</b> <i>B</i> or <i>A</i> <b>δ</b> <i>C</i>)</li>
-<li>If, for all subsets <i>E</i> of <i>X</i>, we have (<i>A</i> <b>δ</b> <i>E</i> or <i>B</i> <b>δ</b> <i>E</i>), then we must have <i>A</i> <b>δ</b> (<i>X</i> − <i>B</i>)</li></ol></dd></dl>"
+<li>If, for all subsets <i>E</i> of <i>X</i>, we have (<i>A</i> <b>δ</b> <i>E</i> or <i>B</i> <b>δ</b> <i>E</i>), then we must have <i>A</i> <b>δ</b> (<i>X</i> − <i>B</i>)</li>
+</ol>
+</dd>
+</dl>"
 "<dl><dt>Pseudocompact</dt>"¬"
 <dd>A space is pseudocompact if every <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real-valued</a> continuous function on the space is bounded.</dd></dl>"
 "<dl><dt>Pseudometric</dt>"¬"
@@ -730,7 +747,8 @@
 <dd>A <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is said to be <b>submaximal</b> if every subset of it is locally closed, that is, every subset is the intersection of an <a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">open set</a> and a <a href=""https://en.wikipedia.org/wiki/Closed_set"" title=""Closed set"">closed set</a>.</dd></dl>
 <p>Here are some facts about submaximality as a property of topological spaces:
 </p>
-<ul><li>Every <a href=""https://en.wikipedia.org/wiki/Door_space"" title=""Door space"">door space</a> is submaximal.</li>
+<ul align=""left"">
+<li>Every <a href=""https://en.wikipedia.org/wiki/Door_space"" title=""Door space"">door space</a> is submaximal.</li>
 <li>Every submaximal space is <i>weakly submaximal</i> viz every finite set is locally closed.</li>
 <li>Every submaximal space is <a href=""https://en.wikipedia.org/wiki/Irresolvable_space"" class=""mw-redirect"" title=""Irresolvable space"">irresolvable</a><sup id=""cite_ref-22"" class=""reference""><a href=""#cite_note-22"">&#91;22&#93;</a></sup></li></ul>"
 "<dl><dt>Subspace</dt>"¬"
@@ -755,9 +773,14 @@
 <dd>A topological invariant is a property which is preserved under homeomorphism. For example, compactness and connectedness are topological properties, whereas boundedness and completeness are not. <a href=""https://en.wikipedia.org/wiki/Algebraic_topology"" title=""Algebraic topology"">Algebraic topology</a> is the study of topologically invariant <a href=""https://en.wikipedia.org/wiki/Abstract_algebra"" title=""Abstract algebra"">abstract algebra</a> constructions on topological spaces.</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">Topological space</a></dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> (<i>X</i>, <i>T</i>) is a set <i>X</i> equipped with a collection <i>T</i> of subsets of <i>X</i> satisfying the following <a href=""https://en.wikipedia.org/wiki/Axiom"" title=""Axiom"">axioms</a>:</dd></dl>
-<dl><dd><ol><li>The empty set and <i>X</i> are in <i>T</i>.</li>
+<dl><dd
+<ol align=""left"">
+<li>The empty set and <i>X</i> are in <i>T</i>.</li>
 <li>The union of any collection of sets in <i>T</i> is also in <i>T</i>.</li>
-<li>The intersection of any pair of sets in <i>T</i> is also in <i>T</i>.</li></ol></dd></dl>
+<li>The intersection of any pair of sets in <i>T</i> is also in <i>T</i>.</li>
+</ol>
+</dd>
+</dl>
 <dl><dd>The collection <i>T</i> is a <b>topology</b> on <i>X</i>.</dd></dl>"
 "<dl><dt>Topological sum</dt>"¬"
 <dd>See <b>Coproduct topology</b>.</dd></dl>"
@@ -783,11 +806,16 @@
 <dd>A space is uniformizable if it is homeomorphic to a uniform space.</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">uniform space</a> is a set <i>X</i> equipped with a nonempty collection Φ of subsets of the <a href=""https://en.wikipedia.org/wiki/Cartesian_product"" title=""Cartesian product"">Cartesian product</a> <i>X</i> × <i>X</i> satisfying the following <a href=""https://en.wikipedia.org/wiki/Axiom"" title=""Axiom"">axioms</a>:</dd></dl>
-<dl><dd><ol><li>if <i>U</i> is in Φ, then <i>U</i> contains { (<i>x</i>, <i>x</i>) | <i>x</i> in <i>X</i> }.</li>
+<dl><dd>
+<ol align=""left"">
+<li>if <i>U</i> is in Φ, then <i>U</i> contains { (<i>x</i>, <i>x</i>) | <i>x</i> in <i>X</i> }.</li>
 <li>if <i>U</i> is in Φ, then { (<i>y</i>, <i>x</i>) | (<i>x</i>, <i>y</i>) in <i>U</i> } is also in Φ</li>
 <li>if <i>U</i> is in Φ and <i>V</i> is a subset of <i>X</i> × <i>X</i> which contains <i>U</i>, then <i>V</i> is in Φ</li>
 <li>if <i>U</i> and <i>V</i> are in Φ, then <i>U</i> ∩ <i>V</i> is in Φ</li>
-<li>if <i>U</i> is in Φ, then there exists <i>V</i> in Φ such that, whenever (<i>x</i>, <i>y</i>) and (<i>y</i>, <i>z</i>) are in <i>V</i>, then (<i>x</i>, <i>z</i>) is in <i>U</i>.</li></ol></dd></dl>
+<li>if <i>U</i> is in Φ, then there exists <i>V</i> in Φ such that, whenever (<i>x</i>, <i>y</i>) and (<i>y</i>, <i>z</i>) are in <i>V</i>, then (<i>x</i>, <i>z</i>) is in <i>U</i>.</li>
+</ol>
+</dd>
+</dl>
 <dl><dd>The elements of Φ are called <b>entourages</b>, and Φ itself is called a <b>uniform structure</b> on <i>X</i>. The uniform structure induces a topology on <i>X</i> where the basic neighborhoods of <i>x</i> are sets of the form {<i>y</i>&#160;: (<i>x</i>,<i>y</i>)∈<i>U</i>} for <i>U</i>∈Φ.</dd></dl>"
 "<dl><dt>Uniform structure</dt>"¬"
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></b>.</dd></dl>"
