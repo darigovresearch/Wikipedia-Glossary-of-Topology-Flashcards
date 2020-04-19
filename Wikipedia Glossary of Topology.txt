@@ -344,42 +344,42 @@
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">Generic point</a></dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">generic point</a> for a closed set is a point for which the closed set is the closure of the singleton set containing that point.<sup id=""cite_ref-9"" class=""reference""><a href=""#cite_note-9"">&#91;9&#93;</a></sup></dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff</a></dt>"¬"
-<dd>A <a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff space</a> (or <b><a href=""https://en.wikipedia.org/wiki/T2_space"" class=""mw-redirect"" title=""T2 space"">T<sub>2</sub></a> space</b>) is one in which every two distinct points have <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> neighbourhoods. Every Hausdorff space is T<sub>1</sub>.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/H-closed_space"" title=""H-closed space"">H-closed</a></dt>
-<dd>A space is H-closed, or <b>Hausdorff closed</b> or <b>absolutely closed</b>, if it is closed in every Hausdorff space containing it.</dd>
-<dt>Hereditarily <i>P</i></dt>
-<dd>A space is hereditarily <i>P</i> for some property <i>P</i> if every subspace is also <i>P</i>.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Hereditary_property"" title=""Hereditary property"">Hereditary</a></dt>
-<dd>A property of spaces is said to be hereditary if whenever a space has that property, then so does every subspace of it.<sup id=""cite_ref-ss4_10-0"" class=""reference""><a href=""#cite_note-ss4-10"">&#91;10&#93;</a></sup> For example, second-countability is a hereditary property.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Homeomorphism"" title=""Homeomorphism"">Homeomorphism</a></dt>
-<dd>If <i>X</i> and <i>Y</i> are spaces, a <a href=""https://en.wikipedia.org/wiki/Homeomorphism"" title=""Homeomorphism"">homeomorphism</a> from <i>X</i> to <i>Y</i> is a <a href=""https://en.wikipedia.org/wiki/Bijection"" title=""Bijection"">bijective</a> function <i>f</i>&#160;:&#160;<i>X</i>&#160;→&#160;<i>Y</i> such that <i>f</i> and <i>f</i><sup>−1</sup> are continuous. The spaces <i>X</i> and <i>Y</i> are then said to be <b>homeomorphic</b>. From the standpoint of topology, homeomorphic spaces are identical.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Homogeneous_space"" title=""Homogeneous space"">Homogeneous</a></dt>
-<dd>A space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Homogeneous_space"" title=""Homogeneous space"">homogeneous</a> if, for every <i>x</i> and <i>y</i> in <i>X</i>, there is a homeomorphism <i>f</i>&#160;: <i>X</i> &#160;→&#160; <i>X</i> such that <i>f</i>(<i>x</i>) = <i>y</i>. Intuitively, the space looks the same at every point. Every <a href=""https://en.wikipedia.org/wiki/Topological_group"" title=""Topological group"">topological group</a> is homogeneous.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Homotopic"" class=""mw-redirect"" title=""Homotopic"">Homotopic maps</a></dt>
-<dd>Two continuous maps  <i>f</i>, <i>g</i>&#160;: <i>X</i> &#160;→&#160; <i>Y</i> are <a href=""https://en.wikipedia.org/wiki/Homotopic"" class=""mw-redirect"" title=""Homotopic"">homotopic</a> (in <i>Y</i>) if there is a continuous map <i>H</i>&#160;: <i>X</i> × [0, 1] &#160;→&#160; <i>Y</i> such that <i>H</i>(<i>x</i>, 0) = <i>f</i>(<i>x</i>) and <i>H</i>(<i>x</i>, 1) = <i>g</i>(<i>x</i>) for all <i>x</i> in <i>X</i>. Here, <i>X</i> × [0, 1] is given the product topology. The function <i>H</i> is called a <b>homotopy</b> (in <i>Y</i>) between <i>f</i> and <i>g</i>.</dd>
-<dt>Homotopy</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Homotopic"" class=""mw-redirect"" title=""Homotopic"">Homotopic maps</a></b>.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Hyperconnected_space"" title=""Hyperconnected space"">Hyper-connected</a></dt>
+<dd>A <a href=""https://en.wikipedia.org/wiki/Hausdorff_space"" title=""Hausdorff space"">Hausdorff space</a> (or <b><a href=""https://en.wikipedia.org/wiki/T2_space"" class=""mw-redirect"" title=""T2 space"">T<sub>2</sub></a> space</b>) is one in which every two distinct points have <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> neighbourhoods. Every Hausdorff space is T<sub>1</sub>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/H-closed_space"" title=""H-closed space"">H-closed</a></dt>"¬"
+<dd>A space is H-closed, or <b>Hausdorff closed</b> or <b>absolutely closed</b>, if it is closed in every Hausdorff space containing it.</dd>"
+"<dt>Hereditarily <i>P</i></dt>"¬"
+<dd>A space is hereditarily <i>P</i> for some property <i>P</i> if every subspace is also <i>P</i>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Hereditary_property"" title=""Hereditary property"">Hereditary</a></dt>"¬"
+<dd>A property of spaces is said to be hereditary if whenever a space has that property, then so does every subspace of it.<sup id=""cite_ref-ss4_10-0"" class=""reference""><a href=""#cite_note-ss4-10"">&#91;10&#93;</a></sup> For example, second-countability is a hereditary property.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Homeomorphism"" title=""Homeomorphism"">Homeomorphism</a></dt>"¬"
+<dd>If <i>X</i> and <i>Y</i> are spaces, a <a href=""https://en.wikipedia.org/wiki/Homeomorphism"" title=""Homeomorphism"">homeomorphism</a> from <i>X</i> to <i>Y</i> is a <a href=""https://en.wikipedia.org/wiki/Bijection"" title=""Bijection"">bijective</a> function <i>f</i>&#160;:&#160;<i>X</i>&#160;→&#160;<i>Y</i> such that <i>f</i> and <i>f</i><sup>−1</sup> are continuous. The spaces <i>X</i> and <i>Y</i> are then said to be <b>homeomorphic</b>. From the standpoint of topology, homeomorphic spaces are identical.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Homogeneous_space"" title=""Homogeneous space"">Homogeneous</a></dt>"¬"
+<dd>A space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Homogeneous_space"" title=""Homogeneous space"">homogeneous</a> if, for every <i>x</i> and <i>y</i> in <i>X</i>, there is a homeomorphism <i>f</i>&#160;: <i>X</i> &#160;→&#160; <i>X</i> such that <i>f</i>(<i>x</i>) = <i>y</i>. Intuitively, the space looks the same at every point. Every <a href=""https://en.wikipedia.org/wiki/Topological_group"" title=""Topological group"">topological group</a> is homogeneous.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Homotopic"" class=""mw-redirect"" title=""Homotopic"">Homotopic maps</a></dt>"¬"
+<dd>Two continuous maps  <i>f</i>, <i>g</i>&#160;: <i>X</i> &#160;→&#160; <i>Y</i> are <a href=""https://en.wikipedia.org/wiki/Homotopic"" class=""mw-redirect"" title=""Homotopic"">homotopic</a> (in <i>Y</i>) if there is a continuous map <i>H</i>&#160;: <i>X</i> × [0, 1] &#160;→&#160; <i>Y</i> such that <i>H</i>(<i>x</i>, 0) = <i>f</i>(<i>x</i>) and <i>H</i>(<i>x</i>, 1) = <i>g</i>(<i>x</i>) for all <i>x</i> in <i>X</i>. Here, <i>X</i> × [0, 1] is given the product topology. The function <i>H</i> is called a <b>homotopy</b> (in <i>Y</i>) between <i>f</i> and <i>g</i>.</dd>"
+"<dt>Homotopy</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Homotopic"" class=""mw-redirect"" title=""Homotopic"">Homotopic maps</a></b>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Hyperconnected_space"" title=""Hyperconnected space"">Hyper-connected</a></dt>"¬"
 <dd>A space is hyper-connected if no two non-empty open sets are disjoint<sup id=""cite_ref-ss29_11-0"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup>  Every hyper-connected space is connected.<sup id=""cite_ref-ss29_11-1"" class=""reference""><a href=""#cite_note-ss29-11"">&#91;11&#93;</a></sup></dd></dl>"
 "<dl><dt>Identification map</dt>"¬"
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Quotient_map"" class=""mw-redirect"" title=""Quotient map"">Quotient map</a></b>.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Identification space</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Quotient space</a></b>.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Indiscrete_space"" class=""mw-redirect"" title=""Indiscrete space"">Indiscrete space</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Trivial_topology"" title=""Trivial topology"">Trivial topology</a></b>.</dd>
-<dt><a href=""https://en.wikipedia.org/w/index.php?title=Infinite-dimensional_topology&amp;action=edit&amp;redlink=1"" class=""new"" title=""Infinite-dimensional topology (page does not exist)"">Infinite-dimensional topology</a></dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Hilbert_manifold"" title=""Hilbert manifold"">Hilbert manifold</a></b> and <b><a href=""https://en.wikipedia.org/w/index.php?title=Q-manifolds&amp;action=edit&amp;redlink=1"" class=""new"" title=""Q-manifolds (page does not exist)"">Q-manifolds</a></b>, i.e. (generalized) manifolds modelled on the Hilbert space and on the Hilbert cube respectively.</dd>
-<dt>Inner limiting set</dt>
-<dd>A <i>G</i><sub>δ</sub> set.<sup id=""cite_ref-ss162_6-3"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Interior_(topology)"" title=""Interior (topology)"">Interior</a></dt>
-<dd>The <a href=""https://en.wikipedia.org/wiki/Interior_(topology)"" title=""Interior (topology)"">interior</a> of a set is the largest open set contained in the original set. It is equal to the union of all open sets contained in it. An element of the interior of a set <i>S</i> is an <b>interior point</b> of <i>S</i>.</dd>
-<dt>Interior point</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Interior_(topology)"" title=""Interior (topology)"">Interior</a></b>.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Isolated_point"" title=""Isolated point"">Isolated point</a></dt>
-<dd>A point <i>x</i> is an <a href=""https://en.wikipedia.org/wiki/Isolated_point"" title=""Isolated point"">isolated point</a> if the <a href=""https://en.wikipedia.org/wiki/Singleton_(mathematics)"" title=""Singleton (mathematics)"">singleton</a> {<i>x</i>} is open. More generally, if <i>S</i> is a subset of a space <i>X</i>, and if <i>x</i> is a point of <i>S</i>, then <i>x</i> is an isolated point of <i>S</i> if {<i>x</i>} is open in the subspace topology on <i>S</i>.</dd>
-<dt>Isometric isomorphism</dt>
-<dd>If <i>M</i><sub>1</sub> and <i>M</i><sub>2</sub> are metric spaces, an isometric isomorphism from <i>M</i><sub>1</sub> to <i>M</i><sub>2</sub> is a <a href=""https://en.wikipedia.org/wiki/Bijection"" title=""Bijection"">bijective</a> isometry <i>f</i>&#160;: <i>M</i><sub>1</sub> &#160;→&#160; <i>M</i><sub>2</sub>. The metric spaces are then said to be <b>isometrically isomorphic</b>. From the standpoint of metric space theory, isometrically isomorphic spaces are identical.</dd>
-<dt>Isometry</dt>
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Quotient_map"" class=""mw-redirect"" title=""Quotient map"">Quotient map</a></b>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Identification space</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Quotient space</a></b>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Indiscrete_space"" class=""mw-redirect"" title=""Indiscrete space"">Indiscrete space</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Trivial_topology"" title=""Trivial topology"">Trivial topology</a></b>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/w/index.php?title=Infinite-dimensional_topology&amp;action=edit&amp;redlink=1"" class=""new"" title=""Infinite-dimensional topology (page does not exist)"">Infinite-dimensional topology</a></dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Hilbert_manifold"" title=""Hilbert manifold"">Hilbert manifold</a></b> and <b><a href=""https://en.wikipedia.org/w/index.php?title=Q-manifolds&amp;action=edit&amp;redlink=1"" class=""new"" title=""Q-manifolds (page does not exist)"">Q-manifolds</a></b>, i.e. (generalized) manifolds modelled on the Hilbert space and on the Hilbert cube respectively.</dd>"
+"<dt>Inner limiting set</dt>"¬"
+<dd>A <i>G</i><sub>δ</sub> set.<sup id=""cite_ref-ss162_6-3"" class=""reference""><a href=""#cite_note-ss162-6"">&#91;6&#93;</a></sup></dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Interior_(topology)"" title=""Interior (topology)"">Interior</a></dt>"¬"
+<dd>The <a href=""https://en.wikipedia.org/wiki/Interior_(topology)"" title=""Interior (topology)"">interior</a> of a set is the largest open set contained in the original set. It is equal to the union of all open sets contained in it. An element of the interior of a set <i>S</i> is an <b>interior point</b> of <i>S</i>.</dd>"
+"<dt>Interior point</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Interior_(topology)"" title=""Interior (topology)"">Interior</a></b>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Isolated_point"" title=""Isolated point"">Isolated point</a></dt>"¬"
+<dd>A point <i>x</i> is an <a href=""https://en.wikipedia.org/wiki/Isolated_point"" title=""Isolated point"">isolated point</a> if the <a href=""https://en.wikipedia.org/wiki/Singleton_(mathematics)"" title=""Singleton (mathematics)"">singleton</a> {<i>x</i>} is open. More generally, if <i>S</i> is a subset of a space <i>X</i>, and if <i>x</i> is a point of <i>S</i>, then <i>x</i> is an isolated point of <i>S</i> if {<i>x</i>} is open in the subspace topology on <i>S</i>.</dd>"
+"<dt>Isometric isomorphism</dt>"¬"
+<dd>If <i>M</i><sub>1</sub> and <i>M</i><sub>2</sub> are metric spaces, an isometric isomorphism from <i>M</i><sub>1</sub> to <i>M</i><sub>2</sub> is a <a href=""https://en.wikipedia.org/wiki/Bijection"" title=""Bijection"">bijective</a> isometry <i>f</i>&#160;: <i>M</i><sub>1</sub> &#160;→&#160; <i>M</i><sub>2</sub>. The metric spaces are then said to be <b>isometrically isomorphic</b>. From the standpoint of metric space theory, isometrically isomorphic spaces are identical.</dd>"
+"<dt>Isometry</dt>"¬"
 <dd>If (<i>M</i><sub>1</sub>, <i>d</i><sub>1</sub>) and (<i>M</i><sub>2</sub>, <i>d</i><sub>2</sub>) are metric spaces, an isometry from <i>M</i><sub>1</sub> to <i>M</i><sub>2</sub> is a function <i>f</i>&#160;: <i>M</i><sub>1</sub> &#160;→&#160; <i>M</i><sub>2</sub> such that <i>d</i><sub>2</sub>(<i>f</i>(<i>x</i>), <i>f</i>(<i>y</i>)) = <i>d</i><sub>1</sub>(<i>x</i>, <i>y</i>) for all <i>x</i>, <i>y</i> in <i>M</i><sub>1</sub>. Every isometry is <a href=""https://en.wikipedia.org/wiki/Injective_function"" title=""Injective function"">injective</a>, although not every isometry is <a href=""https://en.wikipedia.org/wiki/Surjection"" class=""mw-redirect"" title=""Surjection"">surjective</a>.</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Kolmogorov_space"" title=""Kolmogorov space"">Kolmogorov axiom</a></dt>"¬"
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/T0_space"" class=""mw-redirect"" title=""T0 space"">T<sub>0</sub></a></b>.</dd></dl>"
@@ -474,14 +474,14 @@
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Open_cover"" class=""mw-redirect"" title=""Open cover"">Open cover</a></dt>"¬"
 <dd>An <a href=""https://en.wikipedia.org/wiki/Open_cover"" class=""mw-redirect"" title=""Open cover"">open cover</a> is a cover consisting of open sets.<sup id=""cite_ref-ss163_4-3"" class=""reference""><a href=""#cite_note-ss163-4"">&#91;4&#93;</a></sup></dd></dl>"
 "<dl><dt>Open ball</dt>"¬"
-<dd>If (<i>M</i>, <i>d</i>) is a metric space, an open ball is a set of the form <i>B</i>(<i>x</i>; <i>r</i>)&#160;:= {<i>y</i> in <i>M</i>&#160;: <i>d</i>(<i>x</i>, <i>y</i>) &lt; <i>r</i>}, where <i>x</i> is in <i>M</i> and <i>r</i> is a <a href=""https://en.wikipedia.org/wiki/Positive_number"" class=""mw-redirect"" title=""Positive number"">positive</a> <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real number</a>, the <b>radius</b> of the ball. An open ball of radius <i>r</i> is an <b>open <i>r</i>-ball</b>. Every open ball is an open set in the topology on <i>M</i> induced by <i>d</i>.</dd>
-<dt>Open condition</dt>
-<dd>See <b>open property</b>.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">Open set</a></dt>
-<dd>An <a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">open set</a> is a member of the topology.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Open_map"" class=""mw-redirect"" title=""Open map"">Open function</a></dt>
-<dd>A function from one space to another is <a href=""https://en.wikipedia.org/wiki/Open_map"" class=""mw-redirect"" title=""Open map"">open</a> if the <a href=""https://en.wikipedia.org/wiki/Image_(mathematics)"" title=""Image (mathematics)"">image</a> of every open set is open.</dd>
-<dt>Open property</dt>
+<dd>If (<i>M</i>, <i>d</i>) is a metric space, an open ball is a set of the form <i>B</i>(<i>x</i>; <i>r</i>)&#160;:= {<i>y</i> in <i>M</i>&#160;: <i>d</i>(<i>x</i>, <i>y</i>) &lt; <i>r</i>}, where <i>x</i> is in <i>M</i> and <i>r</i> is a <a href=""https://en.wikipedia.org/wiki/Positive_number"" class=""mw-redirect"" title=""Positive number"">positive</a> <a href=""https://en.wikipedia.org/wiki/Real_number"" title=""Real number"">real number</a>, the <b>radius</b> of the ball. An open ball of radius <i>r</i> is an <b>open <i>r</i>-ball</b>. Every open ball is an open set in the topology on <i>M</i> induced by <i>d</i>.</dd>"
+"<dt>Open condition</dt>"¬"
+<dd>See <b>open property</b>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">Open set</a></dt>"¬"
+<dd>An <a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">open set</a> is a member of the topology.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Open_map"" class=""mw-redirect"" title=""Open map"">Open function</a></dt>"¬"
+<dd>A function from one space to another is <a href=""https://en.wikipedia.org/wiki/Open_map"" class=""mw-redirect"" title=""Open map"">open</a> if the <a href=""https://en.wikipedia.org/wiki/Image_(mathematics)"" title=""Image (mathematics)"">image</a> of every open set is open.</dd>"
+"<dt>Open property</dt>"¬"
 <dd>A property of points in a <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is said to be ""open"" if those points which possess it form an <a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">open set</a>.  Such conditions often take a common form, and that form can be said to be an <i>open condition</i>; for example, in <a href=""https://en.wikipedia.org/wiki/Metric_space"" title=""Metric space"">metric spaces</a>, one defines an open ball as above, and says that ""strict inequality is an open condition"".</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Paracompact_space"" title=""Paracompact space"">Paracompact</a></dt>"¬"
 <dd>A space is <a href=""https://en.wikipedia.org/wiki/Paracompact_space"" title=""Paracompact space"">paracompact</a> if every open cover has a locally finite open refinement.  Paracompact implies metacompact.<sup id=""cite_ref-ss23_15-0"" class=""reference""><a href=""#cite_note-ss23-15"">&#91;15&#93;</a></sup>  Paracompact Hausdorff spaces are normal.<sup id=""cite_ref-ss25_16-0"" class=""reference""><a href=""#cite_note-ss25-16"">&#91;16&#93;</a></sup></dd></dl>"
@@ -573,20 +573,20 @@
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">Quotient space</a></dt>"¬"
 <dd>If <i>X</i> is a space, <i>Y</i> is a set, and <i>f</i>&#160;:&#160;<i>X</i>&#160;→&#160;<i>Y</i> is any <a href=""https://en.wikipedia.org/wiki/Surjection"" class=""mw-redirect"" title=""Surjection"">surjective</a> function, then the <a href=""https://en.wikipedia.org/wiki/Quotient_space_(topology)"" title=""Quotient space (topology)"">quotient topology</a> on <i>Y</i> induced by <i>f</i> is the finest topology for which <i>f</i> is continuous. The space <i>X</i> is a quotient space or <b>identification space</b>. By definition, <i>f</i> is a quotient map. The most common example of this is to consider an <a href=""https://en.wikipedia.org/wiki/Equivalence_relation"" title=""Equivalence relation"">equivalence relation</a> on <i>X</i>, with <i>Y</i> the set of <a href=""https://en.wikipedia.org/wiki/Equivalence_class"" title=""Equivalence class"">equivalence classes</a> and <i>f</i> the natural projection map. This construction is dual to the construction of the subspace topology.</dd></dl>"
 "<dl><dt>Refinement</dt>"¬"
-<dd>A cover <i>K</i> is a <a href=""https://en.wikipedia.org/wiki/Refinement_(topology)"" class=""mw-redirect"" title=""Refinement (topology)"">refinement</a> of a cover <i>L</i> if every member of <i>K</i> is a subset of some member of <i>L</i>.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Regular_space"" title=""Regular space"">Regular</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/Regular_space"" title=""Regular space"">regular</a> if, whenever <i>C</i> is a closed set and <i>x</i> is a point not in <i>C</i>, then <i>C</i> and <i>x</i> have <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> neighbourhoods.</dd>
-<dt><a href=""https://en.wikipedia.org/wiki/T3_space"" class=""mw-redirect"" title=""T3 space"">Regular Hausdorff</a></dt>
-<dd>A space is <a href=""https://en.wikipedia.org/wiki/T3_space"" class=""mw-redirect"" title=""T3 space"">regular Hausdorff</a> (or <b>T<sub>3</sub></b>) if it is a regular T<sub>0</sub> space.  (A regular space is Hausdorff <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is T<sub>0</sub>, so the terminology is consistent.)</dd>
-<dt><span id=""Regular_open"">Regular open</span></dt>
-<dd>A subset of a space <i>X</i> is regular open if it equals the interior of its closure; dually, a regular closed set is equal to the closure of its interior.<sup id=""cite_ref-Steen_&amp;_Seebach_1978_p.6_19-0"" class=""reference""><a href=""#cite_note-Steen_&amp;_Seebach_1978_p.6-19"">&#91;19&#93;</a></sup>  An example of a non-regular open set is the set  <i>U</i> = <span class=""texhtml"">(0,1)</span> ∪ <span class=""texhtml"">(1,2)</span> in <b>R</b> with its normal topology, since 1 is in the interior of the closure of <i>U</i>, but not in <i>U</i>. The regular open subsets of a space form a <a href=""https://en.wikipedia.org/wiki/Complete_Boolean_algebra"" title=""Complete Boolean algebra"">complete Boolean algebra</a>.<sup id=""cite_ref-Steen_&amp;_Seebach_1978_p.6_19-1"" class=""reference""><a href=""#cite_note-Steen_&amp;_Seebach_1978_p.6-19"">&#91;19&#93;</a></sup></dd>
-<dt><a href=""https://en.wikipedia.org/wiki/Relatively_compact"" class=""mw-redirect"" title=""Relatively compact"">Relatively compact</a></dt>
-<dd>A subset <i>Y</i> of a space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Relatively_compact"" class=""mw-redirect"" title=""Relatively compact"">relatively compact</a> in <i>X</i> if the closure of <i>Y</i> in <i>X</i> is compact.</dd>
-<dt>Residual</dt>
-<dd>If <i>X</i> is a space and <i>A</i> is a subset of <i>X</i>, then <i>A</i> is residual in <i>X</i> if the complement of <i>A</i> is meagre in <i>X</i>. Also called <b>comeagre</b> or <b>comeager</b>.</dd>
-<dt>Resolvable</dt>
-<dd>A <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is called <a href=""https://en.wikipedia.org/wiki/Resolvable_space"" title=""Resolvable space"">resolvable</a> if it is expressible as the union of two <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> <a href=""https://en.wikipedia.org/wiki/Dense_subset"" class=""mw-redirect"" title=""Dense subset"">dense subsets</a>.</dd>
-<dt>Rim-compact</dt>
+<dd>A cover <i>K</i> is a <a href=""https://en.wikipedia.org/wiki/Refinement_(topology)"" class=""mw-redirect"" title=""Refinement (topology)"">refinement</a> of a cover <i>L</i> if every member of <i>K</i> is a subset of some member of <i>L</i>.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Regular_space"" title=""Regular space"">Regular</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/Regular_space"" title=""Regular space"">regular</a> if, whenever <i>C</i> is a closed set and <i>x</i> is a point not in <i>C</i>, then <i>C</i> and <i>x</i> have <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> neighbourhoods.</dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/T3_space"" class=""mw-redirect"" title=""T3 space"">Regular Hausdorff</a></dt>"¬"
+<dd>A space is <a href=""https://en.wikipedia.org/wiki/T3_space"" class=""mw-redirect"" title=""T3 space"">regular Hausdorff</a> (or <b>T<sub>3</sub></b>) if it is a regular T<sub>0</sub> space.  (A regular space is Hausdorff <a href=""https://en.wikipedia.org/wiki/If_and_only_if"" title=""If and only if"">if and only if</a> it is T<sub>0</sub>, so the terminology is consistent.)</dd>"
+"<dt><span id=""Regular_open"">Regular open</span></dt>"¬"
+<dd>A subset of a space <i>X</i> is regular open if it equals the interior of its closure; dually, a regular closed set is equal to the closure of its interior.<sup id=""cite_ref-Steen_&amp;_Seebach_1978_p.6_19-0"" class=""reference""><a href=""#cite_note-Steen_&amp;_Seebach_1978_p.6-19"">&#91;19&#93;</a></sup>  An example of a non-regular open set is the set  <i>U</i> = <span class=""texhtml"">(0,1)</span> ∪ <span class=""texhtml"">(1,2)</span> in <b>R</b> with its normal topology, since 1 is in the interior of the closure of <i>U</i>, but not in <i>U</i>. The regular open subsets of a space form a <a href=""https://en.wikipedia.org/wiki/Complete_Boolean_algebra"" title=""Complete Boolean algebra"">complete Boolean algebra</a>.<sup id=""cite_ref-Steen_&amp;_Seebach_1978_p.6_19-1"" class=""reference""><a href=""#cite_note-Steen_&amp;_Seebach_1978_p.6-19"">&#91;19&#93;</a></sup></dd>"
+"<dt><a href=""https://en.wikipedia.org/wiki/Relatively_compact"" class=""mw-redirect"" title=""Relatively compact"">Relatively compact</a></dt>"¬"
+<dd>A subset <i>Y</i> of a space <i>X</i> is <a href=""https://en.wikipedia.org/wiki/Relatively_compact"" class=""mw-redirect"" title=""Relatively compact"">relatively compact</a> in <i>X</i> if the closure of <i>Y</i> in <i>X</i> is compact.</dd>"
+"<dt>Residual</dt>"¬"
+<dd>If <i>X</i> is a space and <i>A</i> is a subset of <i>X</i>, then <i>A</i> is residual in <i>X</i> if the complement of <i>A</i> is meagre in <i>X</i>. Also called <b>comeagre</b> or <b>comeager</b>.</dd>"
+"<dt>Resolvable</dt>"¬"
+<dd>A <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is called <a href=""https://en.wikipedia.org/wiki/Resolvable_space"" title=""Resolvable space"">resolvable</a> if it is expressible as the union of two <a href=""https://en.wikipedia.org/wiki/Disjoint_sets"" title=""Disjoint sets"">disjoint</a> <a href=""https://en.wikipedia.org/wiki/Dense_subset"" class=""mw-redirect"" title=""Dense subset"">dense subsets</a>.</dd>"
+"<dt>Rim-compact</dt>"¬"
 <dd>A space is rim-compact if it has a base of open sets whose boundaries are compact.</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/S_and_L_spaces"" title=""S and L spaces"">S-space</a></dt>"¬"
 <dd>An <i>S-space</i> is a <a href=""https://en.wikipedia.org/wiki/Hereditary_property#In_topology"" title=""Hereditary property"">hereditarily</a> <a href=""https://en.wikipedia.org/wiki/Separable_space"" title=""Separable space"">separable</a> space which is not hereditarily <a href=""https://en.wikipedia.org/wiki/Lindel%C3%B6f_space"" title=""Lindelöf space"">Lindelöf</a>.<sup id=""cite_ref-GKW290_12-1"" class=""reference""><a href=""#cite_note-GKW290-12"">&#91;12&#93;</a></sup></dd></dl>"
@@ -618,7 +618,7 @@
 <dd>In a <a href=""https://en.wikipedia.org/wiki/Sober_space"" title=""Sober space"">sober space</a>, every <a href=""https://en.wikipedia.org/wiki/Hyperconnected_space"" title=""Hyperconnected space"">irreducible</a> closed subset is the <a href=""https://en.wikipedia.org/wiki/Closure_(topology)"" title=""Closure (topology)"">closure</a> of exactly one point: that is, has a unique <a href=""https://en.wikipedia.org/wiki/Generic_point"" title=""Generic point"">generic point</a>.<sup id=""cite_ref-21"" class=""reference""><a href=""#cite_note-21"">&#91;21&#93;</a></sup></dd></dl>"
 "<dl><dt>Star</dt>"¬"
 <dd>The star of a point in a given <a href=""https://en.wikipedia.org/wiki/Cover_(topology)"" title=""Cover (topology)"">cover</a> of a <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is the union of all the sets in the cover that contain the point. See <b><a href=""https://en.wikipedia.org/wiki/Star_refinement"" title=""Star refinement"">star refinement</a></b>.</dd></dl>"
-"<dl><dt><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f}"">"¬"
+"<dl><dt><span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
       <mstyle displaystyle=""true"" scriptlevel=""0"">
@@ -627,7 +627,7 @@
     </mrow>
     <annotation encoding=""application/x-tex"">{\displaystyle f}</annotation>
   </semantics>
-</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:1.279ex; height:2.509ex;"" alt=""f""/></span>-Strong topology</dt>
+</math></span><img src=""https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61"" class=""mwe-math-fallback-image-inline"" aria-hidden=""true"" style=""vertical-align: -0.671ex; width:1.279ex; height:2.509ex;"" alt=""f""/></span>-Strong topology</dt>"¬"
 <dd>Let <span class=""mwe-math-element""><span class=""mwe-math-mathml-inline mwe-math-mathml-a11y"" style=""display: none;""><math xmlns=""http://www.w3.org/1998/Math/MathML""  alttext=""{\displaystyle f\colon X\rightarrow Y}"">
   <semantics>
     <mrow class=""MJX-TeXAtom-ORD"">
@@ -725,8 +725,8 @@
 "<dl><dt>Subcover</dt>"¬"
 <dd>A cover <i>K</i> is a subcover (or <b>subcovering</b>) of a cover <i>L</i> if every member of <i>K</i> is a member of <i>L</i>.</dd></dl>"
 "<dl><dt>Subcovering</dt>"¬"
-<dd>See <b>Subcover</b>.</dd>
-<dt>Submaximal space</dt>
+<dd>See <b>Subcover</b>.</dd>"
+"<dt>Submaximal space</dt>"¬"
 <dd>A <a href=""https://en.wikipedia.org/wiki/Topological_space"" title=""Topological space"">topological space</a> is said to be <b>submaximal</b> if every subset of it is locally closed, that is, every subset is the intersection of an <a href=""https://en.wikipedia.org/wiki/Open_set"" title=""Open set"">open set</a> and a <a href=""https://en.wikipedia.org/wiki/Closed_set"" title=""Closed set"">closed set</a>.</dd></dl>
 <p>Here are some facts about submaximality as a property of topological spaces:
 </p>
@@ -792,16 +792,16 @@
 "<dl><dt>Uniform structure</dt>"¬"
 <dd>See <b><a href=""https://en.wikipedia.org/wiki/Uniform_space"" title=""Uniform space"">Uniform space</a></b>.</dd></dl>"
 "<dl><dt><a href=""https://en.wikipedia.org/wiki/Weak_topology"" title=""Weak topology"">Weak topology</a></dt>"¬"
-<dd>The <a href=""https://en.wikipedia.org/wiki/Weak_topology"" title=""Weak topology"">weak topology</a> on a set, with respect to a collection of functions from that set into topological spaces, is the coarsest topology on the set which makes all the functions continuous.</dd>
-<dt>Weaker topology</dt>
-<dd>See <b><a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">Coarser topology</a></b>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>stronger topology</b>.</dd>
-<dt>Weakly countably compact</dt>
-<dd>A space is weakly countably compact (or <b>limit point compact</b>) if every <a href=""https://en.wikipedia.org/wiki/Infinity"" title=""Infinity"">infinite</a> subset has a limit point.</dd>
-<dt>Weakly hereditary</dt>
-<dd>A property of spaces is said to be weakly hereditary if whenever a space has that property, then so does every closed subspace of it. For example, compactness and the Lindelöf property are both weakly hereditary properties, although neither is hereditary.</dd>
-<dt>Weight</dt>
-<dd>The <a href=""https://en.wikipedia.org/wiki/Weight_of_a_space"" class=""mw-redirect"" title=""Weight of a space"">weight of a space</a> <i>X</i> is the smallest <a href=""https://en.wikipedia.org/wiki/Cardinal_number"" title=""Cardinal number"">cardinal number</a> κ such that <i>X</i> has a base of cardinal κ. (Note that such a cardinal number exists, because the entire topology forms a base, and because the class of cardinal numbers is <a href=""https://en.wikipedia.org/wiki/Well_order"" class=""mw-redirect"" title=""Well order"">well-ordered</a>.)</dd>
-<dt>Well-connected</dt>
+<dd>The <a href=""https://en.wikipedia.org/wiki/Weak_topology"" title=""Weak topology"">weak topology</a> on a set, with respect to a collection of functions from that set into topological spaces, is the coarsest topology on the set which makes all the functions continuous.</dd>"
+"<dt>Weaker topology</dt>"¬"
+<dd>See <b><a href=""https://en.wikipedia.org/wiki/Coarser_topology"" class=""mw-redirect"" title=""Coarser topology"">Coarser topology</a></b>. Beware, some authors, especially <a href=""https://en.wikipedia.org/wiki/Mathematical_analysis"" title=""Mathematical analysis"">analysts</a>, use the term <b>stronger topology</b>.</dd>"
+"<dt>Weakly countably compact</dt>"¬"
+<dd>A space is weakly countably compact (or <b>limit point compact</b>) if every <a href=""https://en.wikipedia.org/wiki/Infinity"" title=""Infinity"">infinite</a> subset has a limit point.</dd>"
+"<dt>Weakly hereditary</dt>"¬"
+<dd>A property of spaces is said to be weakly hereditary if whenever a space has that property, then so does every closed subspace of it. For example, compactness and the Lindelöf property are both weakly hereditary properties, although neither is hereditary.</dd>"
+"<dt>Weight</dt>"¬"
+<dd>The <a href=""https://en.wikipedia.org/wiki/Weight_of_a_space"" class=""mw-redirect"" title=""Weight of a space"">weight of a space</a> <i>X</i> is the smallest <a href=""https://en.wikipedia.org/wiki/Cardinal_number"" title=""Cardinal number"">cardinal number</a> κ such that <i>X</i> has a base of cardinal κ. (Note that such a cardinal number exists, because the entire topology forms a base, and because the class of cardinal numbers is <a href=""https://en.wikipedia.org/wiki/Well_order"" class=""mw-redirect"" title=""Well order"">well-ordered</a>.)</dd>"
+"<dt>Well-connected</dt>"¬"
 <dd>See <b>Ultra-connected</b>. (Some authors use this term strictly for ultra-connected compact spaces.)</dd></dl>"
 "<dl><dt>Zero-dimensional</dt>"¬"
 <dd>A space is <a href=""https://en.wikipedia.org/wiki/Zero-dimensional"" class=""mw-redirect"" title=""Zero-dimensional"">zero-dimensional</a> if it has a base of clopen sets.<sup id=""cite_ref-ss33_23-0"" class=""reference""><a href=""#cite_note-ss33-23"">&#91;23&#93;</a></sup></dd></dl>"
